@@ -1,0 +1,392 @@
+[
+    {
+        "dataset_name": "Zoo Leipzig (Jahreszahlen)",
+        "dataset_file_path": "datasets/downloaded_file_6484014.csv",
+        "analysis_results": [
+            {
+                "check": "Missing Values",
+                "count": 3,
+                "total": 75,
+                "percentage": 4.0
+            },
+            {
+                "check": "Null Values",
+                "count": 3,
+                "total": 75,
+                "percentage": 4.0
+            },
+            {
+                "check": "Invalid Data Types",
+                "count": 75,
+                "total": 75,
+                "percentage": 100.0
+            },
+            {
+                "check": "Unique Identifier Check",
+                "count": 0,
+                "total": 3,
+                "percentage": 0.0
+            }
+        ]
+    },
+    {
+        "dataset_name": "Wohnungsmieten (Jahreszahlen)",
+        "dataset_file_path": "datasets/downloaded_file_2593053.csv",
+        "analysis_results": [
+            {
+                "check": "Missing Values",
+                "count": 0,
+                "total": 230,
+                "percentage": 0.0
+            },
+            {
+                "check": "Null Values",
+                "count": 0,
+                "total": 230,
+                "percentage": 0.0
+            },
+            {
+                "check": "Invalid Data Types",
+                "count": 230,
+                "total": 230,
+                "percentage": 100.0
+            },
+            {
+                "check": "Unique Identifier Check",
+                "count": 5,
+                "total": 10,
+                "percentage": 50.0
+            }
+        ]
+    },
+    {
+        "dataset_name": "Zufriedenheit mit den Lebensbedingungen (Jahreszahlen)",
+        "dataset_file_path": "datasets/downloaded_file_3440215.csv",
+        "analysis_results": [
+            {
+                "check": "Missing Values",
+                "count": 1,
+                "total": 784,
+                "percentage": 0.12755102040816327
+            },
+            {
+                "check": "Null Values",
+                "count": 1,
+                "total": 784,
+                "percentage": 0.12755102040816327
+            },
+            {
+                "check": "Invalid Data Types",
+                "count": 784,
+                "total": 784,
+                "percentage": 100.0
+            },
+            {
+                "check": "Unique Identifier Check",
+                "count": 42,
+                "total": 56,
+                "percentage": 75.0
+            }
+        ]
+    },
+    {
+        "dataset_name": "Wohnungslose - Statistik nach dem WoBerichtsG (Jahreszahlen)",
+        "dataset_file_path": "datasets/downloaded_file_7040055.csv",
+        "analysis_results": [
+            {
+                "check": "Missing Values",
+                "count": 38,
+                "total": 152,
+                "percentage": 25.0
+            },
+            {
+                "check": "Null Values",
+                "count": 38,
+                "total": 152,
+                "percentage": 25.0
+            },
+            {
+                "check": "Invalid Data Types",
+                "count": 152,
+                "total": 152,
+                "percentage": 100.0
+            },
+            {
+                "check": "Unique Identifier Check",
+                "count": 0,
+                "total": 38,
+                "percentage": 0.0
+            }
+        ]
+    },
+    {
+        "dataset_name": "Zufriedenheitsfaktoren (Jahreszahlen, kleinr\u00e4umig)",
+        "dataset_file_path": "datasets/downloaded_file_2233383.csv",
+        "analysis_results": [
+            {
+                "check": "Missing Values",
+                "count": 9,
+                "total": 1776,
+                "percentage": 0.5067567567567568
+            },
+            {
+                "check": "Null Values",
+                "count": 9,
+                "total": 1776,
+                "percentage": 0.5067567567567568
+            },
+            {
+                "check": "Invalid Data Types",
+                "count": 1776,
+                "total": 1776,
+                "percentage": 100.0
+            },
+            {
+                "check": "Unique Identifier Check",
+                "count": 222,
+                "total": 296,
+                "percentage": 75.0
+            }
+        ]
+    },
+    {
+        "dataset_name": "Wohnungsmieten (Quartalszahlen)",
+        "dataset_file_path": "datasets/downloaded_file_3650820.csv",
+        "analysis_results": [
+            {
+                "check": "Missing Values",
+                "count": 0,
+                "total": 3,
+                "percentage": 0.0
+            },
+            {
+                "check": "Null Values",
+                "count": 0,
+                "total": 3,
+                "percentage": 0.0
+            },
+            {
+                "check": "Invalid Data Types",
+                "count": 3,
+                "total": 3,
+                "percentage": 100.0
+            },
+            {
+                "check": "Unique Identifier Check",
+                "count": 0,
+                "total": 1,
+                "percentage": 0.0
+            }
+        ]
+    },
+    {
+        "dataset_name": "Kinderspielpl\u00e4tze (Jahreszahlen, kleinr\u00e4umig)",
+        "dataset_file_path": "datasets/downloaded_file_6828567.csv",
+        "analysis_results": [
+            {
+                "check": "Missing Values",
+                "count": 0,
+                "total": 1924,
+                "percentage": 0.0
+            },
+            {
+                "check": "Null Values",
+                "count": 0,
+                "total": 1924,
+                "percentage": 0.0
+            },
+            {
+                "check": "Invalid Data Types",
+                "count": 1924,
+                "total": 1924,
+                "percentage": 100.0
+            },
+            {
+                "check": "Unique Identifier Check",
+                "count": 74,
+                "total": 148,
+                "percentage": 50.0
+            }
+        ]
+    },
+    {
+        "dataset_name": "Wohnungsnotf\u00e4lle  (Jahreszahlen)",
+        "dataset_file_path": "datasets/downloaded_file_418320.csv",
+        "analysis_results": [
+            {
+                "check": "Missing Values",
+                "count": 9,
+                "total": 90,
+                "percentage": 10.0
+            },
+            {
+                "check": "Null Values",
+                "count": 9,
+                "total": 90,
+                "percentage": 10.0
+            },
+            {
+                "check": "Invalid Data Types",
+                "count": 90,
+                "total": 90,
+                "percentage": 100.0
+            },
+            {
+                "check": "Unique Identifier Check",
+                "count": 0,
+                "total": 9,
+                "percentage": 0.0
+            }
+        ]
+    },
+    {
+        "dataset_name": "Zoo Leipzig (Quartalszahlen)",
+        "dataset_file_path": "datasets/downloaded_file_9855685.csv",
+        "analysis_results": [
+            {
+                "check": "Missing Values",
+                "count": 1,
+                "total": 86,
+                "percentage": 1.1627906976744187
+            },
+            {
+                "check": "Null Values",
+                "count": 1,
+                "total": 86,
+                "percentage": 1.1627906976744187
+            },
+            {
+                "check": "Invalid Data Types",
+                "count": 86,
+                "total": 86,
+                "percentage": 100.0
+            },
+            {
+                "check": "Unique Identifier Check",
+                "count": 0,
+                "total": 1,
+                "percentage": 0.0
+            }
+        ]
+    },
+    {
+        "dataset_name": "Wohnungsnotf\u00e4lle (Jahreszahlen)",
+        "dataset_file_path": "datasets/downloaded_file_6926181.csv",
+        "analysis_results": [
+            {
+                "check": "Missing Values",
+                "count": 4,
+                "total": 32,
+                "percentage": 12.5
+            },
+            {
+                "check": "Null Values",
+                "count": 4,
+                "total": 32,
+                "percentage": 12.5
+            },
+            {
+                "check": "Invalid Data Types",
+                "count": 32,
+                "total": 32,
+                "percentage": 100.0
+            },
+            {
+                "check": "Unique Identifier Check",
+                "count": 0,
+                "total": 4,
+                "percentage": 0.0
+            }
+        ]
+    },
+    {
+        "dataset_name": "Geb\u00e4udebestand (Jahreszahlen, kleinr\u00e4umig)",
+        "dataset_file_path": "datasets/downloaded_file_8231261.csv",
+        "analysis_results": [
+            {
+                "check": "Missing Values",
+                "count": 0,
+                "total": 11544,
+                "percentage": 0.0
+            },
+            {
+                "check": "Null Values",
+                "count": 0,
+                "total": 11544,
+                "percentage": 0.0
+            },
+            {
+                "check": "Invalid Data Types",
+                "count": 11544,
+                "total": 11544,
+                "percentage": 100.0
+            },
+            {
+                "check": "Unique Identifier Check",
+                "count": 370,
+                "total": 444,
+                "percentage": 83.33333333333334
+            }
+        ]
+    },
+    {
+        "dataset_name": "Wohnungsbestand (Jahreszahlen, kleinr\u00e4umig)",
+        "dataset_file_path": "datasets/downloaded_file_597091.csv",
+        "analysis_results": [
+            {
+                "check": "Missing Values",
+                "count": 0,
+                "total": 5772,
+                "percentage": 0.0
+            },
+            {
+                "check": "Null Values",
+                "count": 0,
+                "total": 5772,
+                "percentage": 0.0
+            },
+            {
+                "check": "Invalid Data Types",
+                "count": 5772,
+                "total": 5772,
+                "percentage": 100.0
+            },
+            {
+                "check": "Unique Identifier Check",
+                "count": 148,
+                "total": 222,
+                "percentage": 66.66666666666666
+            }
+        ]
+    },
+    {
+        "dataset_name": "Zu- und Wegz\u00fcge ukrainischer Personen nach/von Leipzig im Jahr 2022",
+        "dataset_file_path": "datasets/opendataleipzigzuwegzugukraine2022.csv",
+        "analysis_results": [
+            {
+                "check": "Missing Values",
+                "count": 14024,
+                "total": 168640,
+                "percentage": 8.315939278937382
+            },
+            {
+                "check": "Null Values",
+                "count": 14024,
+                "total": 168640,
+                "percentage": 8.315939278937382
+            },
+            {
+                "check": "Invalid Data Types",
+                "count": 168640,
+                "total": 168640,
+                "percentage": 100.0
+            },
+            {
+                "check": "Unique Identifier Check",
+                "count": 16861,
+                "total": 16864,
+                "percentage": 99.98221062618596
+            }
+        ]
+    }
+]

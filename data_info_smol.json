@@ -1,0 +1,55 @@
+[
+
+    {
+        "dataset_display_name": "Geb\u00e4udebestand (Jahreszahlen, kleinr\u00e4umig)",
+        "dataset_file_name": "datasets/downloaded_file_8231261.csv"
+    },
+    {
+        "dataset_display_name": "Wohnungslose - Statistik nach dem WoBerichtsG (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_7040055.csv"
+    },
+    {
+        "dataset_display_name": "Wohnungsmieten (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_2593053.csv"
+    },
+    {
+        "dataset_display_name": "Wohnungsbestand (Jahreszahlen, kleinr\u00e4umig)",
+        "dataset_file_name": "datasets/downloaded_file_597091.csv"
+    },
+    {
+        "dataset_display_name": "Wohnungsmieten (Quartalszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_3650820.csv"
+    },
+    {
+        "dataset_display_name": "Wohnungsnotf\u00e4lle  (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_418320.csv"
+    },
+    {
+        "dataset_display_name": "Wohnungsnotf\u00e4lle (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_6926181.csv"
+    },
+    {
+        "dataset_display_name": "Zoo Leipzig (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_6484014.csv"
+    },
+    {
+        "dataset_display_name": "Zoo Leipzig (Quartalszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_9855685.csv"
+    },
+    {
+        "dataset_display_name": "Zu- und Wegz\u00fcge ukrainischer Personen nach/von Leipzig im Jahr 2022",
+        "dataset_file_name": "datasets/opendataleipzigzuwegzugukraine2022.csv"
+    },
+    {
+        "dataset_display_name": "Zufriedenheit mit den Lebensbedingungen (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_3440215.csv"
+    },
+    {
+        "dataset_display_name": "Kinderspielpl\u00e4tze (Jahreszahlen, kleinr\u00e4umig)",
+        "dataset_file_name": "datasets/downloaded_file_6828567.csv"
+    },
+    {
+        "dataset_display_name": "Zufriedenheitsfaktoren (Jahreszahlen, kleinr\u00e4umig)",
+        "dataset_file_name": "datasets/downloaded_file_2233383.csv"
+    }
+]

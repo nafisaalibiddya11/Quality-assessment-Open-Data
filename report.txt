@@ -1,0 +1,25 @@
+********************************************************************************
+
+--- Final Analysis Report ---
+Number of datasets analyzed: 272
+Combined results
+Null Values: 3.43%
+Invalid Data Types: 32.60%
+Missing Values: 3.43%
+Unique Identifier Check: 1.44%
+
+Summary by check type:
+Invalid Data Types: 32.60% (17349299/17361375)
+Missing Values: 3.43% (1826269/17361375)
+Null Values: 3.43% (1826269/17361375)
+Unique Identifier Check: 1.44% (768875/1131632)
+================================================================================
+Combined summery  Report
+================================================================================
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+{'invalid_data_types': 32.6,
+ 'missing_values': 3.43,
+ 'null_values': 3.43,
+ 'unique_identifier_check': 1.44}
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+

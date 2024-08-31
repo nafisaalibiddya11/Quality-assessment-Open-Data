@@ -1,0 +1,1090 @@
+[
+    {
+        "dataset_display_name": "A-Wochen und B-Wochen f\u00fcr Fahrplan Fahrbibliothek",
+        "dataset_file_name": "datasets/fahrbibliothekfahrplanabwoche.csv"
+    },
+    {
+        "dataset_display_name": "Abfallentsorgung (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_557914.csv"
+    },
+    {
+        "dataset_display_name": "Abfallentsorgung (Quartalszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_6972660.csv"
+    },
+    {
+        "dataset_display_name": "Kommunale Gebietsgliederung Leipzig: Adressen",
+        "dataset_file_name": "datasets/adressen.csv"
+    },
+    {
+        "dataset_display_name": "Aktuelle Belegung Park+Ride Anlagen, Stadt Leipzig",
+        "dataset_file_name": "datasets/downloaded_file_6438437.csv"
+    },
+    {
+        "dataset_display_name": "Allgemeinbildende Schulen (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_4681681.csv"
+    },
+    {
+        "dataset_display_name": "Allgemeinbildende Schulen (Jahreszahlen, kleinr\u00e4umig)",
+        "dataset_file_name": "datasets/downloaded_file_785072.csv"
+    },
+    {
+        "dataset_display_name": "Apotheken (Jahreszahlen, kleinr\u00e4umig)",
+        "dataset_file_name": "datasets/downloaded_file_9208935.csv"
+    },
+    {
+        "dataset_display_name": "Amtliche Korrekturen und regul\u00e4re Wanderungsvorg\u00e4nge",
+        "dataset_file_name": "datasets/wanderungenaltundrevidiert.csv"
+    },
+    {
+        "dataset_display_name": "Ank\u00fcnfte und \u00dcbernachtungen (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_1181540.csv"
+    },
+    {
+        "dataset_display_name": "Ank\u00fcnfte und \u00dcbernachtungen (Quartalszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_2066265.csv"
+    },
+    {
+        "dataset_display_name": "Anteil von Kindern mit Migrationshintergrund in Kindertageseinrichtungen",
+        "dataset_file_name": "datasets/abb7.csv"
+    },
+    {
+        "dataset_display_name": "Anteilige Verteilung der Schulabschl\u00fcsse (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_5095523.csv"
+    },
+    {
+        "dataset_display_name": "Arbeitslose (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_155457.csv"
+    },
+    {
+        "dataset_display_name": "Arbeitslose (Jahreszahlen, kleinr\u00e4umig)",
+        "dataset_file_name": "datasets/downloaded_file_3194880.csv"
+    },
+    {
+        "dataset_display_name": "Arbeitslose (Quartalszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_4006633.csv"
+    },
+    {
+        "dataset_display_name": "Arbeitssituation Corona-Pandemie nach Geschlecht und Altersgruppen",
+        "dataset_file_name": "datasets/tab6arbeitssituationcoronapandemiealtersgruppen.csv"
+    },
+    {
+        "dataset_display_name": "Arbeitssituation Corona-Pandemie nach Geschlecht",
+        "dataset_file_name": "datasets/abb5arbeitssituationcoronapandemiegeschlecht.csv"
+    },
+    {
+        "dataset_display_name": "\u00c4rzte (Jahreszahlen, kleinr\u00e4umig)",
+        "dataset_file_name": "datasets/downloaded_file_4697052.csv"
+    },
+    {
+        "dataset_display_name": "Aufwendungen f\u00fcr Erziehungshilfen (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_5865661.csv"
+    },
+    {
+        "dataset_display_name": "Aufwendungen f\u00fcr Kindertageseinrichtungen (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_8809376.csv"
+    },
+    {
+        "dataset_display_name": "Ausbaugewerbe (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_2705548.csv"
+    },
+    {
+        "dataset_display_name": "Ausbaugewerbe (Quartalszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_2754412.csv"
+    },
+    {
+        "dataset_display_name": "Ausgaben (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_3871075.csv"
+    },
+    {
+        "dataset_display_name": "Auszubildende (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_1214777.csv"
+    },
+    {
+        "dataset_display_name": "B\u00e4der (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_5683032.csv"
+    },
+    {
+        "dataset_display_name": "B\u00e4der (Quartalszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_4483106.csv"
+    },
+    {
+        "dataset_display_name": "Baufertigstellungen (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_9998192.csv"
+    },
+    {
+        "dataset_display_name": "Baugenehmigungen (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_7188527.csv"
+    },
+    {
+        "dataset_display_name": "Baugenehmigungen (Jahreszahlen, kleinr\u00e4umig)",
+        "dataset_file_name": "datasets/downloaded_file_1226183.csv"
+    },
+    {
+        "dataset_display_name": "Baugenehmigungen (Quartalszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_3305076.csv"
+    },
+    {
+        "dataset_display_name": "Bauhauptgewerbe (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_7879764.csv"
+    },
+    {
+        "dataset_display_name": "Bauhauptgewerbe (Quartalszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_6122517.csv"
+    },
+    {
+        "dataset_display_name": "Baumkataster, Stadt Leipzig",
+        "dataset_file_name": "datasets/downloaded_file_8821570.csv"
+    },
+    {
+        "dataset_display_name": "Beherbergungskapazit\u00e4t (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_4825588.csv"
+    },
+    {
+        "dataset_display_name": "Beratungsstelle Wohnen und Soziales (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_2182602.csv"
+    },
+    {
+        "dataset_display_name": "Berufsbildende Schulen (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_4457894.csv"
+    },
+    {
+        "dataset_display_name": "Besch\u00e4ftigte (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_9910932.csv"
+    },
+    {
+        "dataset_display_name": "Besch\u00e4ftigte (Jahreszahlen, kleinr\u00e4umig)",
+        "dataset_file_name": "datasets/downloaded_file_3552221.csv"
+    },
+    {
+        "dataset_display_name": "Besch\u00e4ftigte (Quartalszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_1236289.csv"
+    },
+    {
+        "dataset_display_name": "Bestand ukrainischer Einwohnerinnen und Einwohner in Leipzig am 31.12.2022 nach Alter",
+        "dataset_file_name": "datasets/opendataleipzigeinwohnerbestandukrainealter2022.csv"
+    },
+    {
+        "dataset_display_name": "Bestand ukrainischer Einwohnerinnen und Einwohner in Leipzig am 31.12.2022 nach Ortsteilen",
+        "dataset_file_name": "datasets/opendataleipzigeinwohnerbestandukraineortsteile2022.csv"
+    },
+    {
+        "dataset_display_name": "Besucherstatistik St\u00e4dtische Bibliotheken",
+        "dataset_file_name": "datasets/pendelkopie-von-2023besucherstatistikstadtbibo4.csv"
+    },
+    {
+        "dataset_display_name": "Betreuungsquote von Kindern unter 3 Jahren in Kindertageseinrichtungen",
+        "dataset_file_name": "datasets/abb4.csv"
+    },
+    {
+        "dataset_display_name": "Betreuungsquote von Kindern unter 7 Jahren in Kindertageseinrichtungen und Kindertagespflege",
+        "dataset_file_name": "datasets/abb5.csv"
+    },
+    {
+        "dataset_display_name": "Bev\u00f6lkerung nach Religionszugeh\u00f6rigkeit (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_3024163.csv"
+    },
+    {
+        "dataset_display_name": "Bev\u00f6lkerungsvoraussch\u00e4tzung 2023",
+        "dataset_file_name": "datasets/bevolkerungsvorausschatzung2023.csv"
+    },
+    {
+        "dataset_display_name": "Bev\u00f6lkerungsvoraussch\u00e4tzung (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_8481247.csv"
+    },
+    {
+        "dataset_display_name": "Familien mit Kindern (Jahreszahlen, kleinr\u00e4umig)",
+        "dataset_file_name": "datasets/downloaded_file_9837070.csv"
+    },
+    {
+        "dataset_display_name": "Bev\u00f6lkerungsvoraussch\u00e4tzung (Jahreszahlen, kleinr\u00e4umig)",
+        "dataset_file_name": "datasets/downloaded_file_8467601.csv"
+    },
+    {
+        "dataset_display_name": "Bev\u00f6lkerungsvoraussch\u00e4tzung und tats\u00e4chliche Einwohnerentwicklung",
+        "dataset_file_name": "datasets/bevolkerungsvorausschatzung.csv"
+    },
+    {
+        "dataset_display_name": "Bibliotheken (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_2413801.csv"
+    },
+    {
+        "dataset_display_name": "Bodenrichtwerte 2022, Stadt Leipzig",
+        "dataset_file_name": "datasets/downloaded_file_172682.csv"
+    },
+    {
+        "dataset_display_name": "Bodenrichtwerte 2023, Stadt Leipzig",
+        "dataset_file_name": "datasets/downloaded_file_4837608.csv"
+    },
+    {
+        "dataset_display_name": "Bodenrichtwerte 2024, Stadt Leipzig",
+        "dataset_file_name": "datasets/downloaded_file_7362271.csv"
+    },
+    {
+        "dataset_display_name": "Bruttoinlandsprodukt und Bruttowertsch\u00f6pfung (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_2183494.csv"
+    },
+    {
+        "dataset_display_name": "Bruttomonatsentgelte (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_8078578.csv"
+    },
+    {
+        "dataset_display_name": "Lebensunterhalt (Jahreszahlen, kleinr\u00e4umig)",
+        "dataset_file_name": "datasets/downloaded_file_7301670.csv"
+    },
+    {
+        "dataset_display_name": "Bruttomonatsentgelte (Jahreszahlen, kleinr\u00e4umig)",
+        "dataset_file_name": "datasets/downloaded_file_2087659.csv"
+    },
+    {
+        "dataset_display_name": "Bundestagswahl 2021: Ortsteilergebnisse",
+        "dataset_file_name": "datasets/open-data-bundestagswahl-_land-sachsen_3-3.csv"
+    },
+    {
+        "dataset_display_name": "Bundestagswahl 2021: Stadtergebnis",
+        "dataset_file_name": "datasets/open-data-bundestagswahl-_land-sachsen_3-1.csv"
+    },
+    {
+        "dataset_display_name": "Bundestagswahl 2021: Wahlbezirksergebnisse",
+        "dataset_file_name": "datasets/open-data-bundestagswahl-_land-sachsen_36.csv"
+    },
+    {
+        "dataset_display_name": "Bundestagswahl 2021: Wahlkreisergebnis 152",
+        "dataset_file_name": "datasets/open-data-bundestagswahl-gemeinden-_wahlkreis-152_.csv"
+    },
+    {
+        "dataset_display_name": "Bundestagswahl 2021: Wahlkreisergebnis 153",
+        "dataset_file_name": "datasets/open-data-bundestagswahl-gemeinden-_wahlkreis-153_.csv"
+    },
+    {
+        "dataset_display_name": "Bundestagswahlen",
+        "dataset_file_name": "datasets/downloaded_file_1330392.csv"
+    },
+    {
+        "dataset_display_name": "Dauerz\u00e4hlstellen Radverkehr - Gesamtanzahl der Fahrr\u00e4der pro Stunde der letzten 31 Tage, Stadt Leipzig",
+        "dataset_file_name": "datasets/downloaded_file_6332965.csv"
+    },
+    {
+        "dataset_display_name": "Dauerz\u00e4hlstellen Radverkehr- Gesamtanzahl der Fahrr\u00e4der pro Tag der letzten 2 Jahre, Stadt Leipzig",
+        "dataset_file_name": "datasets/downloaded_file_5489357.csv"
+    },
+    {
+        "dataset_display_name": "Dauerz\u00e4hlstellen Radverkehr - Standorte, Stadt Leipzig",
+        "dataset_file_name": "datasets/downloaded_file_9279933.csv"
+    },
+    {
+        "dataset_display_name": "Durchschnittliche Anzahl obdachloser und wohnungsloser Personen (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_7655632.csv"
+    },
+    {
+        "dataset_display_name": "Durchschnittliche Nettokaltmiete (Median) der Angebotsmiete nach Baualter (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_8744437.csv"
+    },
+    {
+        "dataset_display_name": "Eheschlie\u00dfungen und Ehescheidungen (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_9846379.csv"
+    },
+    {
+        "dataset_display_name": "Ehrenamt nach Geschlecht",
+        "dataset_file_name": "datasets/abb7ehrenamt.csv"
+    },
+    {
+        "dataset_display_name": "Einnahmen (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_2704310.csv"
+    },
+    {
+        "dataset_display_name": "Einsatz von Haushaltsmitteln (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_9420532.csv"
+    },
+    {
+        "dataset_display_name": "Einschulungen und Nichteinschulungen (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_3915997.csv"
+    },
+    {
+        "dataset_display_name": "Einwohner (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_7353261.csv"
+    },
+    {
+        "dataset_display_name": "Einwohner (Jahreszahlen, kleinr\u00e4umig)",
+        "dataset_file_name": "datasets/downloaded_file_43044.csv"
+    },
+    {
+        "dataset_display_name": "Einwohner nach Familienstand (Jahreszahlen, kleinr\u00e4umig)",
+        "dataset_file_name": "datasets/downloaded_file_2929231.csv"
+    },
+    {
+        "dataset_display_name": "Einwohner nach Alter (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_6563715.csv"
+    },
+    {
+        "dataset_display_name": "Einwohner nach Alter (Jahreszahlen, kleinr\u00e4umig)",
+        "dataset_file_name": "datasets/downloaded_file_3286458.csv"
+    },
+    {
+        "dataset_display_name": "Einwohner (Quartalszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_5476226.csv"
+    },
+    {
+        "dataset_display_name": "Wohnberechtigte Einwohner nach Familienstand (Jahreszahlen, kleinr\u00e4umig)",
+        "dataset_file_name": "datasets/downloaded_file_2278501.csv"
+    },
+    {
+        "dataset_display_name": "Handwerksbetriebe (Jahreszahlen, kleinr\u00e4umig)",
+        "dataset_file_name": "datasets/downloaded_file_1681383.csv"
+    },
+    {
+        "dataset_display_name": "Handwerksbetriebe (Jahreszahlen, kleinr\u00e4umig)",
+        "dataset_file_name": "datasets/downloaded_file_8129521.csv"
+    },
+    {
+        "dataset_display_name": "Einzelhandel (Jahreszahlen, kleinr\u00e4umig)",
+        "dataset_file_name": "datasets/downloaded_file_4158170.csv"
+    },
+    {
+        "dataset_display_name": "Energieverbrauch (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_3775854.csv"
+    },
+    {
+        "dataset_display_name": "Erwerbst\u00e4tigkeit MigrantInnen",
+        "dataset_file_name": "datasets/abb9erwerbstatigkeitmigratinnen.csv"
+    },
+    {
+        "dataset_display_name": "Erziehungs- und Familienberatungsstellen (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_5311899.csv"
+    },
+    {
+        "dataset_display_name": "Erziehungshilfen f\u00fcr Minderj\u00e4hrige (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_1734495.csv"
+    },
+    {
+        "dataset_display_name": "Europawahl 2024: Ortsteilergebnisse",
+        "dataset_file_name": "datasets/Open-Data-14713000-Europawahl-Ortsteil.csv"
+    },
+    {
+        "dataset_display_name": "Europawahl 2024: Stadtbezirksergebnisse",
+        "dataset_file_name": "datasets/Open-Data-14713000-Europawahl-Stadtbezirk.csv"
+    },
+    {
+        "dataset_display_name": "Europawahl 2024: Stadtergebnis",
+        "dataset_file_name": "datasets/Open-Data-14713000-Europawahl-Stadtgebiet.csv"
+    },
+    {
+        "dataset_display_name": "Europawahl 2024: Wahlbezirksergebnisse",
+        "dataset_file_name": "datasets/Open-Data-14713000-Europawahl-Wahlbezirk.csv"
+    },
+    {
+        "dataset_display_name": "Europawahlen",
+        "dataset_file_name": "datasets/downloaded_file_7263663.csv"
+    },
+    {
+        "dataset_display_name": "Europawahlen (kleinr\u00e4umig)",
+        "dataset_file_name": "datasets/downloaded_file_8775927.csv"
+    },
+    {
+        "dataset_display_name": "Fahrplan der Fahrbibliothek",
+        "dataset_file_name": "datasets/fahrbibliothekfahrplan.csv"
+    },
+    {
+        "dataset_display_name": "Fahrplan der Fahrbibliothek f\u00fcr Schulen",
+        "dataset_file_name": "datasets/fahrbibliotheksschulfahrplan.csv"
+    },
+    {
+        "dataset_display_name": "F\u00e4lle ambulant betreuten Wohnens (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_6539321.csv"
+    },
+    {
+        "dataset_display_name": "Personenhaushalte (Jahreszahlen, kleinr\u00e4umig)",
+        "dataset_file_name": "datasets/downloaded_file_3796425.csv"
+    },
+    {
+        "dataset_display_name": "R\u00e4umliche Bev\u00f6lkerungsbewegung nach Haushaltstypen",
+        "dataset_file_name": "datasets/umzuegeleipzig2012ff.csv"
+    },
+    {
+        "dataset_display_name": "Firmen (WZ 2008) (Jahreszahlen, kleinr\u00e4umig)",
+        "dataset_file_name": "datasets/downloaded_file_6902647.csv"
+    },
+    {
+        "dataset_display_name": "Fl\u00e4chennutzung (Jahreszahlen, kleinr\u00e4umig)",
+        "dataset_file_name": "datasets/downloaded_file_4052286.csv"
+    },
+    {
+        "dataset_display_name": "Gartennutzung - Kommunale B\u00fcrgerumfrage",
+        "dataset_file_name": "datasets/gartennutzung.csv"
+    },
+    {
+        "dataset_display_name": "G\u00e4ste nach Herkunftsl\u00e4ndern (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_4830484.csv"
+    },
+    {
+        "dataset_display_name": "G\u00e4steank\u00fcnfte",
+        "dataset_file_name": "datasets/abb.-3-gasteankunfte-in-deutschen-grossstadten-2021.csv"
+    },
+    {
+        "dataset_display_name": "G\u00e4stebetten",
+        "dataset_file_name": "datasets/abb.-1-gastebetten-in-leipzig-2010-2021.csv"
+    },
+    {
+        "dataset_display_name": "Baufertigstellungen (Jahreszahlen, kleinr\u00e4umig)",
+        "dataset_file_name": "datasets/downloaded_file_4841371.csv"
+    },
+    {
+        "dataset_display_name": "Geborene und Gestorbene (Amtliche Daten) (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_2481170.csv"
+    },
+    {
+        "dataset_display_name": "Geborene und Gestorbene (Amtliche Daten) (Quartalszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_1920828.csv"
+    },
+    {
+        "dataset_display_name": "Geborene und Gestorbene (Jahreszahlen, kleinr\u00e4umig)",
+        "dataset_file_name": "datasets/downloaded_file_1001347.csv"
+    },
+    {
+        "dataset_display_name": "Geborene und Gestorbene (Melderegisterdaten) (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_1723803.csv"
+    },
+    {
+        "dataset_display_name": "Geborene und Gestorbene (Melderegisterdaten) (Quartalszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_5637314.csv"
+    },
+    {
+        "dataset_display_name": "Geburten und zusammengefasste Geburtenziffer",
+        "dataset_file_name": "datasets/geburten-und-fertilitat.csv"
+    },
+    {
+        "dataset_display_name": "Gef\u00f6rderte Wohnraumanpassungen (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_1486543.csv"
+    },
+    {
+        "dataset_display_name": "Geo-Koordinaten der Bibliotheken",
+        "dataset_file_name": "datasets/bibliothekengeodaten.csv"
+    },
+    {
+        "dataset_display_name": "Geo-Koordinaten der Haltestellen Fahrbibliothek",
+        "dataset_file_name": "datasets/fahrbibliothekhaltestellengeodatenutm33etrs89.csv"
+    },
+    {
+        "dataset_display_name": "Geo-Koordinaten der Haltestellen Schulfahrplan Fahrbibliothek",
+        "dataset_file_name": "datasets/fahrbibliothekschulfahrplanhaltestellengeodatengaussdg.csv"
+    },
+    {
+        "dataset_display_name": "Geografische Lage (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_5617954.csv"
+    },
+    {
+        "dataset_display_name": "Gesamtmietbelastung nach Haushaltstyp (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_8903749.csv"
+    },
+    {
+        "dataset_display_name": "Gewerbemeldungen (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_2102064.csv"
+    },
+    {
+        "dataset_display_name": "Gew\u00fcnschte Gartentypen - Kommunale B\u00fcrgerumfrage",
+        "dataset_file_name": "datasets/gewuenschtegartentypen.csv"
+    },
+    {
+        "dataset_display_name": "Grundsicherung f\u00fcr Arbeitssuchende (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_7476474.csv"
+    },
+    {
+        "dataset_display_name": "Grundsicherung f\u00fcr Arbeitssuchende (Quartalszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_1436750.csv"
+    },
+    {
+        "dataset_display_name": "Grundsicherung f\u00fcr Arbeitssuchende (SGB II) (Jahreszahlen, kleinr\u00e4umig)",
+        "dataset_file_name": "datasets/downloaded_file_5733940.csv"
+    },
+    {
+        "dataset_display_name": "Handwerksbetriebe (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_1993279.csv"
+    },
+    {
+        "dataset_display_name": "Firmen (WZ 2003) (Jahreszahlen, kleinr\u00e4umig)",
+        "dataset_file_name": "datasets/downloaded_file_251102.csv"
+    },
+    {
+        "dataset_display_name": "Haushalte mit Wohnberechtigungsschein  (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_5116585.csv"
+    },
+    {
+        "dataset_display_name": "Haushaltsgr\u00f6\u00dfe (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_8918319.csv"
+    },
+    {
+        "dataset_display_name": "Herkunft ausl\u00e4ndischer G\u00e4ste",
+        "dataset_file_name": "datasets/abb.-4-herkunft-auslandischer-gaste-in-leipzig-2021.csv"
+    },
+    {
+        "dataset_display_name": "Historische Belegung (letzten 30 Tage) Park+Ride Anlagen, Stadt Leipzig",
+        "dataset_file_name": "datasets/downloaded_file_6135898.csv"
+    },
+    {
+        "dataset_display_name": "Hochschulen (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_3214295.csv"
+    },
+    {
+        "dataset_display_name": "Immissionen (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_7613130.csv"
+    },
+    {
+        "dataset_display_name": "Innerst\u00e4dtische Umz\u00fcge ukrainischer Personen innerhalb der Stadt Leipzig 2022",
+        "dataset_file_name": "datasets/opendataleipzigumzugukraine2022.csv"
+    },
+    {
+        "dataset_display_name": "Insolvenzverfahren (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_43526.csv"
+    },
+    {
+        "dataset_display_name": "Integrativ unterrichtete Sch\u00fcler/-innen nach F\u00f6rderschwerpunkt (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_9458976.csv"
+    },
+    {
+        "dataset_display_name": "Investitionen in den Schulbau (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_3373638.csv"
+    },
+    {
+        "dataset_display_name": "LeipzigGiesst gegossene Liter Jahresstatistik 2021",
+        "dataset_file_name": "datasets/wateredtreessum2021.csv"
+    },
+    {
+        "dataset_display_name": "Kinder- und Jugendf\u00f6rderung freier Tr\u00e4ger  (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_679512.csv"
+    },
+    {
+        "dataset_display_name": "Kindergarten- und Kinderkrippenkinder in Kindertageseinrichtungen nach Migrationshintergrund",
+        "dataset_file_name": "datasets/abb6.csv"
+    },
+    {
+        "dataset_display_name": "Kinderkrippen- und Kindergartenpl\u00e4tze in Kindertageseinrichtungen",
+        "dataset_file_name": "datasets/abb2.csv"
+    },
+    {
+        "dataset_display_name": "Alten- und Pflegeheime (Jahreszahlen, kleinr\u00e4umig)",
+        "dataset_file_name": "datasets/downloaded_file_4894874.csv"
+    },
+    {
+        "dataset_display_name": "Kindertagesst\u00e4tten (Angemeldete Kinder) (Jahreszahlen, kleinr\u00e4umig)",
+        "dataset_file_name": "datasets/downloaded_file_7195277.csv"
+    },
+    {
+        "dataset_display_name": "Kindertagesbetreuung (Kapazit\u00e4ten) (Jahreszahlen, kleinr\u00e4umig)",
+        "dataset_file_name": "datasets/downloaded_file_390720.csv"
+    },
+    {
+        "dataset_display_name": "Kindertageseinrichtungen in \u00f6ffentlicher oder freier Tr\u00e4gerschaft nach Ortsteilen",
+        "dataset_file_name": "datasets/tab2.csv"
+    },
+    {
+        "dataset_display_name": "Kindertageseinrichtungen (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_2915964.csv"
+    },
+    {
+        "dataset_display_name": "Knotenpunkte Stra\u00dfennetz",
+        "dataset_file_name": "datasets/downloaded_file_1431542.csv"
+    },
+    {
+        "dataset_display_name": "Kontaktdaten und \u00d6ffnungszeiten der Bibliotheken",
+        "dataset_file_name": "datasets/bibliothekenkontaktdaten.csv"
+    },
+    {
+        "dataset_display_name": "Kraftfahrzeugbestand (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_2084599.csv"
+    },
+    {
+        "dataset_display_name": "Kraftfahrzeugbestand (Jahreszahlen, kleinr\u00e4umig)",
+        "dataset_file_name": "datasets/downloaded_file_301345.csv"
+    },
+    {
+        "dataset_display_name": "Landtagswahl 2024: Stra\u00dfenabschnittsverzeichnis",
+        "dataset_file_name": "datasets/Strassenabschnittsverzeichnis_Landtagswahl_2024.csv"
+    },
+    {
+        "dataset_display_name": "Landtagswahlen",
+        "dataset_file_name": "datasets/downloaded_file_4969384.csv"
+    },
+    {
+        "dataset_display_name": "Bundestagswahlen (kleinr\u00e4umig)",
+        "dataset_file_name": "datasets/downloaded_file_246235.csv"
+    },
+    {
+        "dataset_display_name": "Lebenserwartung",
+        "dataset_file_name": "datasets/lebenserwartung-in-leipzig-und-den-clustern.csv"
+    },
+    {
+        "dataset_display_name": "Lebensunterhalt (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_7460401.csv"
+    },
+    {
+        "dataset_display_name": "LeipzigGiesst gegossene Liter Jahresstatistik 2022",
+        "dataset_file_name": "datasets/wateredtreessum2022.csv"
+    },
+    {
+        "dataset_display_name": "LeipzigGiesst gegossene Liter Jahresstatistik 2023",
+        "dataset_file_name": "datasets/wateredtreessum2023.csv"
+    },
+    {
+        "dataset_display_name": "Leistungszahlen Leipziger St\u00e4dtische Bibliotheken",
+        "dataset_file_name": "datasets/leistungszahlen.csv"
+    },
+    {
+        "dataset_display_name": "Luftverkehr (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_2145843.csv"
+    },
+    {
+        "dataset_display_name": "Luftverkehr (Quartalszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_5671308.csv"
+    },
+    {
+        "dataset_display_name": "LWB-Angebotsmieten nach Baualtersklassen",
+        "dataset_file_name": "datasets/angebotsmietenlwb.csv"
+    },
+    {
+        "dataset_display_name": "LWB-Bestandsmieten nach Baualtersklassen",
+        "dataset_file_name": "datasets/bestandsmietenlwb.csv"
+    },
+    {
+        "dataset_display_name": "Messen und Ausstellungen (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_7980066.csv"
+    },
+    {
+        "dataset_display_name": "Museen (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_4604671.csv"
+    },
+    {
+        "dataset_display_name": "Museen (Quartalszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_2844887.csv"
+    },
+    {
+        "dataset_display_name": "Nettoeinkommen (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_1110517.csv"
+    },
+    {
+        "dataset_display_name": "Nettoeinkommen (Jahreszahlen, kleinr\u00e4umig)",
+        "dataset_file_name": "datasets/downloaded_file_5121895.csv"
+    },
+    {
+        "dataset_display_name": "Nutzung \u00f6ffentlicher Fl\u00e4chen in Kleingartenanlagen",
+        "dataset_file_name": "datasets/oeffentlichenutzungkleingartenanlagen.csv"
+    },
+    {
+        "dataset_display_name": "\u00d6ffentliche Toiletten, Stadt Leipzig",
+        "dataset_file_name": "datasets/Oeffentliche_Toiletten_Stadt_Leipzig.csv"
+    },
+    {
+        "dataset_display_name": "Park+Ride Anlagen Standorte, Stadt Leipzig",
+        "dataset_file_name": "datasets/downloaded_file_6247812.csv"
+    },
+    {
+        "dataset_display_name": "Personal in Kindertageseinrichtungen in \u00f6ffentlicher oder freier Tr\u00e4gerschaft",
+        "dataset_file_name": "datasets/tab1.csv"
+    },
+    {
+        "dataset_display_name": "Personal nach Aufgabenbereichen (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_6348799.csv"
+    },
+    {
+        "dataset_display_name": "Personal nach Dienstverh\u00e4ltnissen (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_1554875.csv"
+    },
+    {
+        "dataset_display_name": "Personal nach Produktbereichen (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_3081763.csv"
+    },
+    {
+        "dataset_display_name": "Einwohnerdichte (Jahreszahlen, kleinr\u00e4umig)",
+        "dataset_file_name": "datasets/downloaded_file_1895318.csv"
+    },
+    {
+        "dataset_display_name": "Personennahverkehr (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_412006.csv"
+    },
+    {
+        "dataset_display_name": "Probleme aus B\u00fcrgersicht (ab 2020) (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_9679651.csv"
+    },
+    {
+        "dataset_display_name": "Probleme aus B\u00fcrgersicht (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_756406.csv"
+    },
+    {
+        "dataset_display_name": "Prognostizierte und tats\u00e4chliche Altersstruktur",
+        "dataset_file_name": "datasets/prognostiziertealtersstruktur.csv"
+    },
+    {
+        "dataset_display_name": "Prognostizierte und tats\u00e4chliche Bev\u00f6lkerungsentwicklung",
+        "dataset_file_name": "datasets/bevolkerungsentwicklung.csv"
+    },
+    {
+        "dataset_display_name": "Realsteuervergleich (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_5213317.csv"
+    },
+    {
+        "dataset_display_name": "Registrierungen ukrainischer Personen in Leipzig im Jahr 2022",
+        "dataset_file_name": "datasets/opendataleipzigukraineregistrierung2022.csv"
+    },
+    {
+        "dataset_display_name": "Relative Bev\u00f6lkerungsentwicklung - Kinder und Jugendliche",
+        "dataset_file_name": "datasets/relativebevolkerungsentwicklung.csv"
+    },
+    {
+        "dataset_display_name": "Relative Entwicklung der Einwohnerzahl nach Ortsteilen",
+        "dataset_file_name": "datasets/einwohnerot.csv"
+    },
+    {
+        "dataset_display_name": "Schul- und Berufsabschl\u00fcsse (Jahreszahlen, kleinr\u00e4umig)",
+        "dataset_file_name": "datasets/downloaded_file_4662786.csv"
+    },
+    {
+        "dataset_display_name": "Leipziger Spezialm\u00e4rkte - \u00d6ffnungszeiten und Termine",
+        "dataset_file_name": "datasets/spezialmaerkte.csv"
+    },
+    {
+        "dataset_display_name": "Sporteinrichtungen (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_5508801.csv"
+    },
+    {
+        "dataset_display_name": "Sportvereine (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_9314982.csv"
+    },
+    {
+        "dataset_display_name": "Sprachverst\u00e4ndnis MigrantInnen",
+        "dataset_file_name": "datasets/abb8sprachverstandnis.csv"
+    },
+    {
+        "dataset_display_name": "Stadtbezirksbudget 2023",
+        "dataset_file_name": "datasets/sbbudget_2023.csv"
+    },
+    {
+        "dataset_display_name": "Stadtratswahl 2024: Bewerberinnen und Bewerber (CSV)",
+        "dataset_file_name": "datasets/stadtratswahl_leipzig_2024_kandidaten.csv"
+    },
+    {
+        "dataset_display_name": "Stadtratswahl 2024: Ortsteilergebnisse",
+        "dataset_file_name": "datasets/Open-Data-14713000-Stadtratswahl-Leipzig-Ortsteil.csv"
+    },
+    {
+        "dataset_display_name": "Stadtratswahl 2024: Stadtergebnis",
+        "dataset_file_name": "datasets/Open-Data-14713000-Stadtratswahl-Leipzig-Stadtgebiet.csv"
+    },
+    {
+        "dataset_display_name": "Europawahl und Stadtratswahl 2024: Stra\u00dfenabschnittsverzeichnis",
+        "dataset_file_name": "datasets/Strassenabschnittsverzeichnis_Kommunalwahlen_2024.csv"
+    },
+    {
+        "dataset_display_name": "Stadtratswahl 2024: Wahlbezirksergebnisse",
+        "dataset_file_name": "datasets/Open-Data-14713000-Stadtratswahl-Leipzig-Wahlbezirk.csv"
+    },
+    {
+        "dataset_display_name": "Stadtratswahl 2024: Wahlkreisergebnisse",
+        "dataset_file_name": "datasets/Open-Data-14713000-Stadtratswahl-Leipzig-Wahlkreis.csv"
+    },
+    {
+        "dataset_display_name": "Stadtratswahlen",
+        "dataset_file_name": "datasets/downloaded_file_3589625.csv"
+    },
+    {
+        "dataset_display_name": "Landtagswahlen (kleinr\u00e4umig)",
+        "dataset_file_name": "datasets/downloaded_file_7670900.csv"
+    },
+    {
+        "dataset_display_name": "Stadtratswahlen (kleinr\u00e4umig)",
+        "dataset_file_name": "datasets/downloaded_file_610866.csv"
+    },
+    {
+        "dataset_display_name": "Steuereinnahmen (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_7090729.csv"
+    },
+    {
+        "dataset_display_name": "Steuereinnahmen (Quartalszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_4730452.csv"
+    },
+    {
+        "dataset_display_name": "Straftaten (Jahreszahlen, kleinr\u00e4umig)",
+        "dataset_file_name": "datasets/downloaded_file_3887823.csv"
+    },
+    {
+        "dataset_display_name": "Stra\u00dfennetz (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_4452949.csv"
+    },
+    {
+        "dataset_display_name": "Stra\u00dfennetz, Stadt Leipzig",
+        "dataset_file_name": "datasets/downloaded_file_1991407.csv"
+    },
+    {
+        "dataset_display_name": "Tagespflege (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_5512877.csv"
+    },
+    {
+        "dataset_display_name": "Theater (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_5684701.csv"
+    },
+    {
+        "dataset_display_name": "Theater (Quartalszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_1734825.csv"
+    },
+    {
+        "dataset_display_name": "\u00dcbernahme von Mietschulden (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_7676462.csv"
+    },
+    {
+        "dataset_display_name": "Umzugsgr\u00fcnde umzugswilliger Haushalte - Kommunale B\u00fcrgerumfrage",
+        "dataset_file_name": "datasets/umzugsgruende.csv"
+    },
+    {
+        "dataset_display_name": "Umzugspotenzial Leipziger Haushalte - Kommunale B\u00fcrgerumfrage",
+        "dataset_file_name": "datasets/umzugspotenzial.csv"
+    },
+    {
+        "dataset_display_name": "Unf\u00e4lle mit Radbeteiligung",
+        "dataset_file_name": "datasets/unfallatlasleipzig20162020.csv"
+    },
+    {
+        "dataset_display_name": "Unternehmen (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_8735028.csv"
+    },
+    {
+        "dataset_display_name": "Untersuchte Kinder in Kindertageseinrichtungen (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_9571142.csv"
+    },
+    {
+        "dataset_display_name": "Verarbeitendes Gewerbe (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_1584015.csv"
+    },
+    {
+        "dataset_display_name": "Verarbeitendes Gewerbe (Quartalszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_1293968.csv"
+    },
+    {
+        "dataset_display_name": "Verkehrsraumeinschr\u00e4nkungen (Polygone), Stadt Leipzig",
+        "dataset_file_name": "datasets/downloaded_file_8562231.csv"
+    },
+    {
+        "dataset_display_name": "Verkehrsraumeinschr\u00e4nkungen (Punkte), Stadt Leipzig",
+        "dataset_file_name": "datasets/downloaded_file_573822.csv"
+    },
+    {
+        "dataset_display_name": "Verkehrsunf\u00e4lle (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_8367648.csv"
+    },
+    {
+        "dataset_display_name": "Verkehrsunf\u00e4lle (Quartalszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_2278906.csv"
+    },
+    {
+        "dataset_display_name": "Verkehrszeichen, Stadt Leipzig",
+        "dataset_file_name": "datasets/downloaded_file_4602767.csv"
+    },
+    {
+        "dataset_display_name": "Vermittlung wohnungssuchender Haushalte mit Wohnberechtigungsschein (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_6923074.csv"
+    },
+    {
+        "dataset_display_name": "Versorgungsgrad an Pl\u00e4tzen in Kindertageseinrichtungen",
+        "dataset_file_name": "datasets/abb910.csv"
+    },
+    {
+        "dataset_display_name": "Verweildauer in Notunterk\u00fcnften (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_2163447.csv"
+    },
+    {
+        "dataset_display_name": "Volkshochschule (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_3005882.csv"
+    },
+    {
+        "dataset_display_name": "Von Wohnungslosigkeit bedrohte Haushalte  (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_2154622.csv"
+    },
+    {
+        "dataset_display_name": "Vornamensstatistik 2014",
+        "dataset_file_name": "datasets/vornamensstatistik2014.csv"
+    },
+    {
+        "dataset_display_name": "Vornamensstatistik 2015",
+        "dataset_file_name": "datasets/vornamensstatistik_2015.csv"
+    },
+    {
+        "dataset_display_name": "Vornamensstatistik 2016",
+        "dataset_file_name": "datasets/vornamensstatistik_2016.csv"
+    },
+    {
+        "dataset_display_name": "Vornamensstatistik 2017",
+        "dataset_file_name": "datasets/vornamensstatistik_2017.csv"
+    },
+    {
+        "dataset_display_name": "Vornamensstatistik 2018",
+        "dataset_file_name": "datasets/vornamensstatistik_2018.csv"
+    },
+    {
+        "dataset_display_name": "Vornamensstatistik 2019",
+        "dataset_file_name": "datasets/vornamensstatistik_2019.csv"
+    },
+    {
+        "dataset_display_name": "Vornamensstatistik 2020",
+        "dataset_file_name": "datasets/vornamensstatistik_2020.csv"
+    },
+    {
+        "dataset_display_name": "Vornamensstatistik 2021",
+        "dataset_file_name": "datasets/vornamensstatistik_2021.csv"
+    },
+    {
+        "dataset_display_name": "Vornamensstatistik 2022",
+        "dataset_file_name": "datasets/vornamensstatistik_2022.csv"
+    },
+    {
+        "dataset_display_name": "Vornamensstatistik 2023",
+        "dataset_file_name": "datasets/vornamensstatistik_2023.csv"
+    },
+    {
+        "dataset_display_name": "Wanderungen (Amtliche Daten) (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_6118952.csv"
+    },
+    {
+        "dataset_display_name": "Wanderungen (Amtliche Daten) (Quartalszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_5904744.csv"
+    },
+    {
+        "dataset_display_name": "Wanderungen (Melderegisterdaten) (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_6452118.csv"
+    },
+    {
+        "dataset_display_name": "Wanderungen (Melderegisterdaten) (Quartalszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_193000.csv"
+    },
+    {
+        "dataset_display_name": "Wanderungen (Melderegisterdaten, unrevidiert) (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_7760547.csv"
+    },
+    {
+        "dataset_display_name": "Wanderungen (Melderegisterdaten, unrevidiert) (Quartalszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_1108107.csv"
+    },
+    {
+        "dataset_display_name": "Wanderungen (Jahreszahlen, kleinr\u00e4umig)",
+        "dataset_file_name": "datasets/downloaded_file_5963171.csv"
+    },
+    {
+        "dataset_display_name": "Wanderungen (unrevidiert) (Jahreszahlen, kleinr\u00e4umig)",
+        "dataset_file_name": "datasets/downloaded_file_2437951.csv"
+    },
+    {
+        "dataset_display_name": "Wanderungssaldo nach Herkunfts- und Zielgebieten",
+        "dataset_file_name": "datasets/wanderungssaldo.csv"
+    },
+    {
+        "dataset_display_name": "Wanderungssaldo nach Zielgebiet, Herkunftsgebiet und Staatsb\u00fcrgerschaft",
+        "dataset_file_name": "datasets/wanderungssaldennachgebietenundstaatsburgerschaft.csv"
+    },
+    {
+        "dataset_display_name": "Wasserhygiene (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_9531204.csv"
+    },
+    {
+        "dataset_display_name": "Weihnachtsm\u00e4rkte im Stadtgebiet Leipzig und Umland",
+        "dataset_file_name": "datasets/markets.csv"
+    },
+    {
+        "dataset_display_name": "Wetterdaten (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_5603411.csv"
+    },
+    {
+        "dataset_display_name": "Leipziger Wochenm\u00e4rkte - \u00d6ffnungszeiten und Termine",
+        "dataset_file_name": "datasets/wochenmarkte.csv"
+    },
+    {
+        "dataset_display_name": "Einwohner mit Migrationshintergund (Jahreszahlen, kleinr\u00e4umig)",
+        "dataset_file_name": "datasets/downloaded_file_2442979.csv"
+    },
+    {
+        "dataset_display_name": "Wohnberechtigte Einwohner nach Alter (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_8131215.csv"
+    },
+    {
+        "dataset_display_name": "Wohnberechtigte Einwohner (Jahreszahlen, kleinr\u00e4umig)",
+        "dataset_file_name": "datasets/downloaded_file_8088837.csv"
+    },
+    {
+        "dataset_display_name": "Wohnberechtigte Einwohner nach Alter (Jahreszahlen, kleinr\u00e4umig)",
+        "dataset_file_name": "datasets/downloaded_file_270269.csv"
+    },
+    {
+        "dataset_display_name": "Wohnraumversorgung mit Wohnberechtigungsschein (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_2136776.csv"
+    },
+    {
+        "dataset_display_name": "Wohnsituation (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_9949566.csv"
+    },
+    {
+        "dataset_display_name": "Wohnungsmieten (Jahreszahlen, kleinr\u00e4umig)",
+        "dataset_file_name": "datasets/downloaded_file_4606463.csv"
+    },
+    {
+        "dataset_display_name": "Wohnsituation (Jahreszahlen, kleinr\u00e4umig)",
+        "dataset_file_name": "datasets/downloaded_file_629878.csv"
+    },
+    {
+        "dataset_display_name": "Wohnstandortpr\u00e4ferenzen nach dem Umzug - Kommunale B\u00fcrgerumfrage",
+        "dataset_file_name": "datasets/wohnstandortpraferenzen.csv"
+    },
+    {
+        "dataset_display_name": "Wohnungsbestand (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_8930071.csv"
+    },
+    {
+        "dataset_display_name": "Wohnungsbestand  (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_2841418.csv"
+    },
+    {
+        "dataset_display_name": "Geb\u00e4udebestand (Jahreszahlen, kleinr\u00e4umig)",
+        "dataset_file_name": "datasets/downloaded_file_8231261.csv"
+    },
+    {
+        "dataset_display_name": "Wohnungslose - Statistik nach dem WoBerichtsG (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_7040055.csv"
+    },
+    {
+        "dataset_display_name": "Wohnungsmieten (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_2593053.csv"
+    },
+    {
+        "dataset_display_name": "Wohnungsbestand (Jahreszahlen, kleinr\u00e4umig)",
+        "dataset_file_name": "datasets/downloaded_file_597091.csv"
+    },
+    {
+        "dataset_display_name": "Wohnungsmieten (Quartalszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_3650820.csv"
+    },
+    {
+        "dataset_display_name": "Wohnungsnotf\u00e4lle  (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_418320.csv"
+    },
+    {
+        "dataset_display_name": "Wohnungsnotf\u00e4lle (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_6926181.csv"
+    },
+    {
+        "dataset_display_name": "Zoo Leipzig (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_6484014.csv"
+    },
+    {
+        "dataset_display_name": "Zoo Leipzig (Quartalszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_9855685.csv"
+    },
+    {
+        "dataset_display_name": "Zu- und Wegz\u00fcge ukrainischer Personen nach/von Leipzig im Jahr 2022",
+        "dataset_file_name": "datasets/opendataleipzigzuwegzugukraine2022.csv"
+    },
+    {
+        "dataset_display_name": "Zufriedenheit mit den Lebensbedingungen (Jahreszahlen)",
+        "dataset_file_name": "datasets/downloaded_file_3440215.csv"
+    },
+    {
+        "dataset_display_name": "Kinderspielpl\u00e4tze (Jahreszahlen, kleinr\u00e4umig)",
+        "dataset_file_name": "datasets/downloaded_file_6828567.csv"
+    },
+    {
+        "dataset_display_name": "Zufriedenheitsfaktoren (Jahreszahlen, kleinr\u00e4umig)",
+        "dataset_file_name": "datasets/downloaded_file_2233383.csv"
+    }
+]

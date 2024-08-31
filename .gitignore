@@ -1,0 +1,6 @@
+venv
+.venv
+data
+analysis_log.txt
+datasets
+.ruff_cache

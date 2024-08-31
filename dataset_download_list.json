@@ -1,0 +1,1362 @@
+[
+    {
+        "dataset_display_title": "A-Wochen und B-Wochen f\u00fcr Fahrplan Fahrbibliothek",
+        "download_url": null,
+        "url": "https://opendata.leipzig.de/dataset/6fcdd972-b19e-453b-b28c-272dab80febb/resource/28b818d4-580f-4e30-8324-cc7edc51b59b/download/fahrbibliothekfahrplanabwoche.csv"
+    },
+    {
+        "dataset_display_title": "Abfallentsorgung (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=13&rubrik_nr=5&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=13&rubrik_nr=5&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Abfallentsorgung (Quartalszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=13&rubrik_nr=5&periode=q&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=13&rubrik_nr=5&periode=q&format=csv"
+    },
+    {
+        "dataset_display_title": "Kommunale Gebietsgliederung Leipzig: Adressen",
+        "download_url": null,
+        "url": "https://opendata.leipzig.de/dataset/e1b381f0-4b57-4f0d-86cd-a4bb423894da/resource/868214cb-6602-420f-91f3-a1b06c037be2/download/adressen.csv"
+    },
+    {
+        "dataset_display_title": "Aktuelle Belegung Park+Ride Anlagen, Stadt Leipzig",
+        "download_url": null,
+        "url": "https://geodienste.leipzig.de/l10/opendata/PR_Anlagen_Belegung_aktuell/MapServer/WFSServer?SERVICE=WFS&request=GetFeature&typeName=PR_Anlagen_Belegung_aktuell%3aPR_Anlagen_Belegung_aktuell&outputFormat=CSV"
+    },
+    {
+        "dataset_display_title": "Allgemeinbildende Schulen (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=5&rubrik_nr=1&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=5&rubrik_nr=1&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Allgemeinbildende Schulen (Jahreszahlen, kleinr\u00e4umig)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=5&rubrik_nr=1&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=5&rubrik_nr=1&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Apotheken (Jahreszahlen, kleinr\u00e4umig)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=4&rubrik_nr=8&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=4&rubrik_nr=8&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Amtliche Korrekturen und regul\u00e4re Wanderungsvorg\u00e4nge",
+        "download_url": null,
+        "url": "https://opendata.leipzig.de/dataset/49cdea43-cf4d-4b8a-bc2b-e50af94b32f6/resource/7c43e88f-adf5-406d-95aa-e2c4946a069b/download/wanderungenaltundrevidiert.csv"
+    },
+    {
+        "dataset_display_title": "Ank\u00fcnfte und \u00dcbernachtungen (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=8&rubrik_nr=9&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=8&rubrik_nr=9&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Ank\u00fcnfte und \u00dcbernachtungen (Quartalszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=8&rubrik_nr=9&periode=q&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=8&rubrik_nr=9&periode=q&format=csv"
+    },
+    {
+        "dataset_display_title": "Anteil von Kindern mit Migrationshintergrund in Kindertageseinrichtungen",
+        "download_url": null,
+        "url": "https://opendata.leipzig.de/dataset/671841eb-4a28-4a05-8584-451c1d0441d3/resource/d750f9e9-6188-4dd7-b9e0-a3ab3ced4c32/download/abb7.csv"
+    },
+    {
+        "dataset_display_title": "Anteilige Verteilung der Schulabschl\u00fcsse (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=5&rubrik_nr=8&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=5&rubrik_nr=8&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Arbeitslose (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=7&rubrik_nr=3&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=7&rubrik_nr=3&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Arbeitslose (Jahreszahlen, kleinr\u00e4umig)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=7&rubrik_nr=3&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=7&rubrik_nr=3&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Arbeitslose (Quartalszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=7&rubrik_nr=3&periode=q&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=7&rubrik_nr=3&periode=q&format=csv"
+    },
+    {
+        "dataset_display_title": "Arbeitssituation Corona-Pandemie nach Geschlecht und Altersgruppen",
+        "download_url": null,
+        "url": "https://opendata.leipzig.de/dataset/10b3d24a-8a5b-4fda-9691-4059c8700bff/resource/3dd8f797-1a3e-4f26-9e81-9f66aeea730d/download/tab6arbeitssituationcoronapandemiealtersgruppen.csv"
+    },
+    {
+        "dataset_display_title": "Arbeitssituation Corona-Pandemie nach Geschlecht",
+        "download_url": null,
+        "url": "https://opendata.leipzig.de/dataset/1e6d1ffb-5ff7-4af5-8133-8c0e24577f79/resource/348c0ae2-f5df-4483-b415-a73276422dff/download/abb5arbeitssituationcoronapandemiegeschlecht.csv"
+    },
+    {
+        "dataset_display_title": "\u00c4rzte (Jahreszahlen, kleinr\u00e4umig)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=4&rubrik_nr=6&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=4&rubrik_nr=6&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Aufwendungen f\u00fcr Erziehungshilfen (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=4&rubrik_nr=42&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=4&rubrik_nr=42&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Aufwendungen f\u00fcr Kindertageseinrichtungen (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=4&rubrik_nr=43&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=4&rubrik_nr=43&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Ausbaugewerbe (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=8&rubrik_nr=5&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=8&rubrik_nr=5&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Ausbaugewerbe (Quartalszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=8&rubrik_nr=5&periode=q&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=8&rubrik_nr=5&periode=q&format=csv"
+    },
+    {
+        "dataset_display_title": "Ausgaben (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=14&rubrik_nr=5&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=14&rubrik_nr=5&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Auszubildende (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=7&rubrik_nr=2&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=7&rubrik_nr=2&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "B\u00e4der (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=11&rubrik_nr=5&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=11&rubrik_nr=5&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "B\u00e4der (Quartalszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=11&rubrik_nr=5&periode=q&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=11&rubrik_nr=5&periode=q&format=csv"
+    },
+    {
+        "dataset_display_title": "Baufertigstellungen (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=6&rubrik_nr=6&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=6&rubrik_nr=6&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Baugenehmigungen (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=6&rubrik_nr=5&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=6&rubrik_nr=5&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Baugenehmigungen (Jahreszahlen, kleinr\u00e4umig)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=6&rubrik_nr=1&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=6&rubrik_nr=1&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Baugenehmigungen (Quartalszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=6&rubrik_nr=5&periode=q&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=6&rubrik_nr=5&periode=q&format=csv"
+    },
+    {
+        "dataset_display_title": "Bauhauptgewerbe (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=8&rubrik_nr=4&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=8&rubrik_nr=4&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Bauhauptgewerbe (Quartalszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=8&rubrik_nr=4&periode=q&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=8&rubrik_nr=4&periode=q&format=csv"
+    },
+    {
+        "dataset_display_title": "Baumkataster, Stadt Leipzig",
+        "download_url": null,
+        "url": "https://geodienste.leipzig.de/l3/OpenData//wfs?VERSION=1.3.0&REQUEST=getFeature&typeName=OpenData%3ABaeume&format_options=filename:Baumkataster_Stadt_Leipzig.csv&outputFormat=csv"
+    },
+    {
+        "dataset_display_title": "Beherbergungskapazit\u00e4t (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=8&rubrik_nr=8&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=8&rubrik_nr=8&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Beratungsstelle Wohnen und Soziales (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=4&rubrik_nr=8&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=4&rubrik_nr=8&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Berufsbildende Schulen (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=5&rubrik_nr=3&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=5&rubrik_nr=3&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Besch\u00e4ftigte (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=7&rubrik_nr=1&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=7&rubrik_nr=1&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Besch\u00e4ftigte (Jahreszahlen, kleinr\u00e4umig)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=7&rubrik_nr=1&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=7&rubrik_nr=1&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Besch\u00e4ftigte (Quartalszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=7&rubrik_nr=1&periode=q&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=7&rubrik_nr=1&periode=q&format=csv"
+    },
+    {
+        "dataset_display_title": "Bestand ukrainischer Einwohnerinnen und Einwohner in Leipzig am 31.12.2022 nach Alter",
+        "download_url": null,
+        "url": "https://opendata.leipzig.de/dataset/46c0f4e1-54dc-41fc-a0bf-b21c0d5047b8/resource/57a1316f-5ccc-49e6-a61e-e6f412b1bfc5/download/opendataleipzigeinwohnerbestandukrainealter2022.csv"
+    },
+    {
+        "dataset_display_title": "Bestand ukrainischer Einwohnerinnen und Einwohner in Leipzig am 31.12.2022 nach Ortsteilen",
+        "download_url": null,
+        "url": "https://opendata.leipzig.de/dataset/f2ea226a-6a00-4dd5-945d-094f3bfd92cc/resource/2fcb5892-20b8-4af0-8700-6add1bed31c6/download/opendataleipzigeinwohnerbestandukraineortsteile2022.csv"
+    },
+    {
+        "dataset_display_title": "Besucherstatistik St\u00e4dtische Bibliotheken",
+        "download_url": null,
+        "url": "https://opendata.leipzig.de/dataset/8fb12deb-17d0-44ce-841a-2d0a9db035f2/resource/e532638d-dce8-4ca6-90d9-b4ca20b86b8c/download/pendelkopie-von-2023besucherstatistikstadtbibo4.csv"
+    },
+    {
+        "dataset_display_title": "Betreuungsquote von Kindern unter 3 Jahren in Kindertageseinrichtungen",
+        "download_url": null,
+        "url": "https://opendata.leipzig.de/dataset/f3081eae-6a8d-4cdf-a72c-fb6fd62b59dc/resource/2e35ec46-8a07-4821-b67a-91d1fceda352/download/abb4.csv"
+    },
+    {
+        "dataset_display_title": "Betreuungsquote von Kindern unter 7 Jahren in Kindertageseinrichtungen und Kindertagespflege",
+        "download_url": null,
+        "url": "https://opendata.leipzig.de/dataset/abeec883-acf4-4286-8bd9-1e8290f3541d/resource/2340ffd3-7328-433c-8015-baa7dbd386f0/download/abb5.csv"
+    },
+    {
+        "dataset_display_title": "Bev\u00f6lkerung nach Religionszugeh\u00f6rigkeit (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=2&rubrik_nr=37&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=2&rubrik_nr=37&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Bev\u00f6lkerungsvoraussch\u00e4tzung 2023",
+        "download_url": null,
+        "url": "https://opendata.leipzig.de/dataset/e5b65c72-658e-4908-9938-d0b83e1bcf78/resource/83df7e0b-5dfd-404e-8b9e-659af1f20059/download/bevolkerungsvorausschatzung2023.csv"
+    },
+    {
+        "dataset_display_title": "Bev\u00f6lkerungsvoraussch\u00e4tzung (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=2&rubrik_nr=6&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=2&rubrik_nr=6&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Familien mit Kindern (Jahreszahlen, kleinr\u00e4umig)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=2&rubrik_nr=11&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=2&rubrik_nr=11&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Bev\u00f6lkerungsvoraussch\u00e4tzung (Jahreszahlen, kleinr\u00e4umig)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=2&rubrik_nr=12&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=2&rubrik_nr=12&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Bev\u00f6lkerungsvoraussch\u00e4tzung und tats\u00e4chliche Einwohnerentwicklung",
+        "download_url": null,
+        "url": "https://opendata.leipzig.de/dataset/16a3c866-73d3-4525-9af3-399c3840440a/resource/1761f485-2b36-441b-ac1f-b6e96d819b37/download/bevolkerungsvorausschatzung.csv"
+    },
+    {
+        "dataset_display_title": "Bibliotheken (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=11&rubrik_nr=3&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=11&rubrik_nr=3&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Bodenrichtwerte 2022, Stadt Leipzig",
+        "download_url": null,
+        "url": "https://geodienste.leipzig.de/l3/OpenData/wfs?VERSION=1.3.0&REQUEST=getFeature&typeName=OpenData%3ABRW_Zonen_2022&outputFormat=csv"
+    },
+    {
+        "dataset_display_title": "Bodenrichtwerte 2023, Stadt Leipzig",
+        "download_url": null,
+        "url": "https://geodienste.leipzig.de/l3/OpenData/wfs?VERSION=1.3.0&REQUEST=getFeature&typeName=OpenData%3ABRW_Zonen_2023&format_options=charset:utf-8&outputFormat=csv"
+    },
+    {
+        "dataset_display_title": "Bodenrichtwerte 2024, Stadt Leipzig",
+        "download_url": null,
+        "url": "https://geodienste.leipzig.de/l3/OpenData/wfs?VERSION=1.3.0&REQUEST=getFeature&typeName=OpenData%3ABRW_Zonen_2024&format_options=charset:utf-8&outputFormat=csv"
+    },
+    {
+        "dataset_display_title": "Bruttoinlandsprodukt und Bruttowertsch\u00f6pfung (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=8&rubrik_nr=12&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=8&rubrik_nr=12&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Bruttomonatsentgelte (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=9&rubrik_nr=3&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=9&rubrik_nr=3&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Lebensunterhalt (Jahreszahlen, kleinr\u00e4umig)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=9&rubrik_nr=3&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=9&rubrik_nr=3&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Bruttomonatsentgelte (Jahreszahlen, kleinr\u00e4umig)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=9&rubrik_nr=4&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=9&rubrik_nr=4&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Bundestagswahl 2021: Ortsteilergebnisse",
+        "download_url": null,
+        "url": "https://opendata.leipzig.de/dataset/8354f558-9291-44a4-b487-35577e5ea2ec/resource/78c648fd-ef32-4852-8d86-eb9603d4b378/download/open-data-bundestagswahl-_land-sachsen_3-3.csv"
+    },
+    {
+        "dataset_display_title": "Bundestagswahl 2021: Stadtergebnis",
+        "download_url": null,
+        "url": "https://opendata.leipzig.de/dataset/fff8cfc0-a4aa-4627-89ed-a46bb6a29c59/resource/8322e9af-940c-4b71-a2f4-fc1f1c0aa4b0/download/open-data-bundestagswahl-_land-sachsen_3-1.csv"
+    },
+    {
+        "dataset_display_title": "Bundestagswahl 2021: Wahlbezirksergebnisse",
+        "download_url": null,
+        "url": "https://opendata.leipzig.de/dataset/f5b27739-e3dd-49ca-95cd-9b0e9b907684/resource/ac5a6d47-a9fe-4d3d-8f0d-c7b6100c5e00/download/open-data-bundestagswahl-_land-sachsen_36.csv"
+    },
+    {
+        "dataset_display_title": "Bundestagswahl 2021: Wahlkreisergebnis 152",
+        "download_url": null,
+        "url": "https://opendata.leipzig.de/dataset/52f541e1-dbbb-4d8d-97d2-586bf2bc796d/resource/1c384630-31d5-4c50-9fe7-6c5555cf264d/download/open-data-bundestagswahl-gemeinden-_wahlkreis-152_.csv"
+    },
+    {
+        "dataset_display_title": "Bundestagswahl 2021: Wahlkreisergebnis 153",
+        "download_url": null,
+        "url": "https://opendata.leipzig.de/dataset/3d7102cc-c3fe-4a68-ad21-f9cd2d67e1d7/resource/163fc666-6a66-4931-9d28-602a81283430/download/open-data-bundestagswahl-gemeinden-_wahlkreis-153_.csv"
+    },
+    {
+        "dataset_display_title": "Bundestagswahlen",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=15&rubrik_nr=2&periode=d&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=15&rubrik_nr=2&periode=d&format=csv"
+    },
+    {
+        "dataset_display_title": "Dauerz\u00e4hlstellen Radverkehr - Gesamtanzahl der Fahrr\u00e4der pro Stunde der letzten 31 Tage, Stadt Leipzig",
+        "download_url": null,
+        "url": "https://geodienste.leipzig.de/l10/opendata/Radverkehr_Dauerzaehlstellen_Anzahl_Stunde_Zeitreihe/MapServer/WFSServer?SERVICE=WFS&request=GetFeature&typeName=Radverkehr_Dauerzaehlstellen_Zeitreihe_n_Stunde%3aRadverkehr_Dauerzaehlstellen_Zeitreihe_n_Stunde&outputFormat=CSV"
+    },
+    {
+        "dataset_display_title": "Dauerz\u00e4hlstellen Radverkehr- Gesamtanzahl der Fahrr\u00e4der pro Tag der letzten 2 Jahre, Stadt Leipzig",
+        "download_url": null,
+        "url": "https://geodienste.leipzig.de/l10/opendata/Radverkehr_Dauerzaehlstellen_Anzahl_Tag_Zeitreihe/MapServer/WFSServer?SERVICE=WFS&request=GetFeature&typeName=Radverkehr_Dauerzaehlstellen_Zeitreihe_n_Tag%3aRadverkehr_Dauerzaehlstellen_Zeitreihe_n_Tag&outputFormat=CSV"
+    },
+    {
+        "dataset_display_title": "Dauerz\u00e4hlstellen Radverkehr - Standorte, Stadt Leipzig",
+        "download_url": null,
+        "url": "https://geodienste.leipzig.de/l10/opendata/Radverkehr_Dauerzaehlstellen_Standorte_statisch/MapServer/WFSServer?SERVICE=WFS&request=GetFeature&typeName=Radverkehr_Dauerzaehlstellen_Standorte_statisch%3aRadverkehr_Dauerzaehlstellen_Standorte_statisch&outputFormat=CSV"
+    },
+    {
+        "dataset_display_title": "Durchschnittliche Anzahl obdachloser und wohnungsloser Personen (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=4&rubrik_nr=18&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=4&rubrik_nr=18&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Durchschnittliche Nettokaltmiete (Median) der Angebotsmiete nach Baualter (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=6&rubrik_nr=34&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=6&rubrik_nr=34&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Eheschlie\u00dfungen und Ehescheidungen (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=3&rubrik_nr=3&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=3&rubrik_nr=3&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Ehrenamt nach Geschlecht",
+        "download_url": null,
+        "url": "https://opendata.leipzig.de/dataset/09531960-8429-4b31-9047-a55efeb2b483/resource/3eb4726f-b6cd-4a96-9fc0-81d8ce48c20f/download/abb7ehrenamt.csv"
+    },
+    {
+        "dataset_display_title": "Einnahmen (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=14&rubrik_nr=4&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=14&rubrik_nr=4&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Einsatz von Haushaltsmitteln (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=14&rubrik_nr=9&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=14&rubrik_nr=9&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Einschulungen und Nichteinschulungen (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=5&rubrik_nr=2&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=5&rubrik_nr=2&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Einwohner (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=2&rubrik_nr=1&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=2&rubrik_nr=1&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Einwohner (Jahreszahlen, kleinr\u00e4umig)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=2&rubrik_nr=1&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=2&rubrik_nr=1&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Einwohner nach Familienstand (Jahreszahlen, kleinr\u00e4umig)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=2&rubrik_nr=4&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=2&rubrik_nr=4&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Einwohner nach Alter (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=2&rubrik_nr=2&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=2&rubrik_nr=2&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Einwohner nach Alter (Jahreszahlen, kleinr\u00e4umig)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=2&rubrik_nr=3&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=2&rubrik_nr=3&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Einwohner (Quartalszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=2&rubrik_nr=1&periode=q&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=2&rubrik_nr=1&periode=q&format=csv"
+    },
+    {
+        "dataset_display_title": "Wohnberechtigte Einwohner nach Familienstand (Jahreszahlen, kleinr\u00e4umig)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=2&rubrik_nr=8&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=2&rubrik_nr=8&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Handwerksbetriebe (Jahreszahlen, kleinr\u00e4umig)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=8&rubrik_nr=4&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=8&rubrik_nr=4&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Handwerksbetriebe (Jahreszahlen, kleinr\u00e4umig)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=8&rubrik_nr=5&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=8&rubrik_nr=5&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Einzelhandel (Jahreszahlen, kleinr\u00e4umig)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=8&rubrik_nr=6&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=8&rubrik_nr=6&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Energieverbrauch (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=13&rubrik_nr=4&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=13&rubrik_nr=4&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Erwerbst\u00e4tigkeit MigrantInnen",
+        "download_url": null,
+        "url": "https://opendata.leipzig.de/dataset/ac13f1cd-1515-47df-bc6f-ec18ae325918/resource/10e95615-f843-4b9f-8712-60e7be53eb5f/download/abb9erwerbstatigkeitmigratinnen.csv"
+    },
+    {
+        "dataset_display_title": "Erziehungs- und Familienberatungsstellen (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=4&rubrik_nr=40&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=4&rubrik_nr=40&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Erziehungshilfen f\u00fcr Minderj\u00e4hrige (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=4&rubrik_nr=41&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=4&rubrik_nr=41&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Europawahl 2024: Ortsteilergebnisse",
+        "download_url": null,
+        "url": "https://wahlergebnis.leipzig.de/4/eu2024/14713000/daten/opendata/Open-Data-14713000-Europawahl-Ortsteil.csv"
+    },
+    {
+        "dataset_display_title": "Europawahl 2024: Stadtbezirksergebnisse",
+        "download_url": null,
+        "url": "https://wahlergebnis.leipzig.de/4/eu2024/14713000/daten/opendata/Open-Data-14713000-Europawahl-Stadtbezirk.csv"
+    },
+    {
+        "dataset_display_title": "Europawahl 2024: Stadtergebnis",
+        "download_url": null,
+        "url": "https://wahlergebnis.leipzig.de/4/eu2024/14713000/daten/opendata/Open-Data-14713000-Europawahl-Stadtgebiet.csv"
+    },
+    {
+        "dataset_display_title": "Europawahl 2024: Wahlbezirksergebnisse",
+        "download_url": null,
+        "url": "https://wahlergebnis.leipzig.de/4/eu2024/14713000/daten/opendata/Open-Data-14713000-Europawahl-Wahlbezirk.csv"
+    },
+    {
+        "dataset_display_title": "Europawahlen",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=15&rubrik_nr=1&periode=d&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=15&rubrik_nr=1&periode=d&format=csv"
+    },
+    {
+        "dataset_display_title": "Europawahlen (kleinr\u00e4umig)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=15&rubrik_nr=1&periode=d&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=15&rubrik_nr=1&periode=d&format=csv"
+    },
+    {
+        "dataset_display_title": "Fahrplan der Fahrbibliothek",
+        "download_url": null,
+        "url": "https://opendata.leipzig.de/dataset/38ee8385-296a-462b-8a07-d11eb0ea27e6/resource/ca60e101-ae88-496b-826c-0fefdffc56d9/download/fahrbibliothekfahrplan.csv"
+    },
+    {
+        "dataset_display_title": "Fahrplan der Fahrbibliothek f\u00fcr Schulen",
+        "download_url": null,
+        "url": "https://opendata.leipzig.de/dataset/95b2a361-d6fc-44d7-a122-6472bab01dfa/resource/a7715314-c561-4cfa-9b8b-b620eea79a37/download/fahrbibliotheksschulfahrplan.csv"
+    },
+    {
+        "dataset_display_title": "F\u00e4lle ambulant betreuten Wohnens (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=4&rubrik_nr=29&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=4&rubrik_nr=29&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Personenhaushalte (Jahreszahlen, kleinr\u00e4umig)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=2&rubrik_nr=10&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=2&rubrik_nr=10&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "R\u00e4umliche Bev\u00f6lkerungsbewegung nach Haushaltstypen",
+        "download_url": null,
+        "url": "https://opendata.leipzig.de/dataset/fe3bbe2d-6118-40bc-8817-9f8c03b2f168/resource/8fbd6507-02a5-4368-859a-1e3662ddc57b/download/umzuegeleipzig2012ff.csv"
+    },
+    {
+        "dataset_display_title": "Firmen (WZ 2008) (Jahreszahlen, kleinr\u00e4umig)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=8&rubrik_nr=1&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=8&rubrik_nr=1&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Fl\u00e4chennutzung (Jahreszahlen, kleinr\u00e4umig)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=1&rubrik_nr=1&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=1&rubrik_nr=1&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Gartennutzung - Kommunale B\u00fcrgerumfrage",
+        "download_url": null,
+        "url": "https://opendata.leipzig.de/dataset/981dad4d-6aa5-41e1-ac5b-003d6399383a/resource/3dc6ea5a-872b-4465-9f91-eff7be5644f9/download/gartennutzung.csv"
+    },
+    {
+        "dataset_display_title": "G\u00e4ste nach Herkunftsl\u00e4ndern (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=8&rubrik_nr=10&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=8&rubrik_nr=10&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "G\u00e4steank\u00fcnfte",
+        "download_url": null,
+        "url": "https://opendata.leipzig.de/dataset/374b40fc-40e5-4c4c-a53f-1ebe153e3fe4/resource/a82fcc7c-857c-4d32-bfd6-edf8b039c3c3/download/abb.-3-gasteankunfte-in-deutschen-grossstadten-2021.csv"
+    },
+    {
+        "dataset_display_title": "G\u00e4stebetten",
+        "download_url": null,
+        "url": "https://opendata.leipzig.de/dataset/bb383aea-37fc-4bcd-ad24-393f5c996d07/resource/7f2ab174-3bd2-4700-8e20-6b05397ad5f5/download/abb.-1-gastebetten-in-leipzig-2010-2021.csv"
+    },
+    {
+        "dataset_display_title": "Baufertigstellungen (Jahreszahlen, kleinr\u00e4umig)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=6&rubrik_nr=3&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=6&rubrik_nr=3&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Geborene und Gestorbene (Amtliche Daten) (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=3&rubrik_nr=1&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=3&rubrik_nr=1&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Geborene und Gestorbene (Amtliche Daten) (Quartalszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=3&rubrik_nr=1&periode=q&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=3&rubrik_nr=1&periode=q&format=csv"
+    },
+    {
+        "dataset_display_title": "Geborene und Gestorbene (Jahreszahlen, kleinr\u00e4umig)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=3&rubrik_nr=1&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=3&rubrik_nr=1&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Geborene und Gestorbene (Melderegisterdaten) (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=3&rubrik_nr=2&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=3&rubrik_nr=2&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Geborene und Gestorbene (Melderegisterdaten) (Quartalszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=3&rubrik_nr=2&periode=q&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=3&rubrik_nr=2&periode=q&format=csv"
+    },
+    {
+        "dataset_display_title": "Geburten und zusammengefasste Geburtenziffer",
+        "download_url": null,
+        "url": "https://opendata.leipzig.de/dataset/9a96c299-ab95-4468-ae75-f207eb1938a4/resource/fce95310-77f0-40e4-9906-f5fee95aea3f/download/geburten-und-fertilitat.csv"
+    },
+    {
+        "dataset_display_title": "Gef\u00f6rderte Wohnraumanpassungen (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=4&rubrik_nr=9&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=4&rubrik_nr=9&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Geo-Koordinaten der Bibliotheken",
+        "download_url": null,
+        "url": "https://opendata.leipzig.de/dataset/2a43ed7d-5e0a-4cf3-ac06-1f601b4f6c3b/resource/c3304312-0dd8-4b12-99ee-524737aeef0c/download/bibliothekengeodaten.csv"
+    },
+    {
+        "dataset_display_title": "Geo-Koordinaten der Haltestellen Fahrbibliothek",
+        "download_url": null,
+        "url": "https://opendata.leipzig.de/dataset/19b8f22d-5453-4a6b-abe9-e06738381003/resource/948783ba-b170-4283-bf99-e39cab26ebdd/download/fahrbibliothekhaltestellengeodatenutm33etrs89.csv"
+    },
+    {
+        "dataset_display_title": "Geo-Koordinaten der Haltestellen Schulfahrplan Fahrbibliothek",
+        "download_url": null,
+        "url": "https://opendata.leipzig.de/dataset/a519a271-322a-43db-b6f7-ad9d50830e5e/resource/c165a484-b3a9-43a0-8390-37aec78f32cf/download/fahrbibliothekschulfahrplanhaltestellengeodatengaussdg.csv"
+    },
+    {
+        "dataset_display_title": "Geografische Lage (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=1&rubrik_nr=1&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=1&rubrik_nr=1&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Gesamtmietbelastung nach Haushaltstyp (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=6&rubrik_nr=27&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=6&rubrik_nr=27&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Gewerbemeldungen (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=8&rubrik_nr=6&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=8&rubrik_nr=6&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Gew\u00fcnschte Gartentypen - Kommunale B\u00fcrgerumfrage",
+        "download_url": null,
+        "url": "https://opendata.leipzig.de/dataset/f91dfa55-7126-4ba8-b756-9a91d1b5900a/resource/72f4a8e8-daf8-4a20-a914-6c714bb77572/download/gewuenschtegartentypen.csv"
+    },
+    {
+        "dataset_display_title": "Grundsicherung f\u00fcr Arbeitssuchende (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=4&rubrik_nr=4&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=4&rubrik_nr=4&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Grundsicherung f\u00fcr Arbeitssuchende (Quartalszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=4&rubrik_nr=4&periode=q&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=4&rubrik_nr=4&periode=q&format=csv"
+    },
+    {
+        "dataset_display_title": "Grundsicherung f\u00fcr Arbeitssuchende (SGB II) (Jahreszahlen, kleinr\u00e4umig)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=4&rubrik_nr=4&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=4&rubrik_nr=4&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Handwerksbetriebe (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=8&rubrik_nr=2&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=8&rubrik_nr=2&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Firmen (WZ 2003) (Jahreszahlen, kleinr\u00e4umig)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=8&rubrik_nr=3&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=8&rubrik_nr=3&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Haushalte mit Wohnberechtigungsschein  (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=4&rubrik_nr=28&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=4&rubrik_nr=28&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Haushaltsgr\u00f6\u00dfe (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=6&rubrik_nr=23&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=6&rubrik_nr=23&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Herkunft ausl\u00e4ndischer G\u00e4ste",
+        "download_url": null,
+        "url": "https://opendata.leipzig.de/dataset/2dd67638-9f03-4582-813c-f59e6f41492b/resource/52946db4-fafd-4530-afcf-155ff7b94658/download/abb.-4-herkunft-auslandischer-gaste-in-leipzig-2021.csv"
+    },
+    {
+        "dataset_display_title": "Historische Belegung (letzten 30 Tage) Park+Ride Anlagen, Stadt Leipzig",
+        "download_url": null,
+        "url": "https://geodienste.leipzig.de/l10/opendata/PR_Anlagen_Belegung_Zeitreihe/MapServer/WFSServer?SERVICE=WFS&request=GetFeature&typeName=PR_Anlagen_Belegung_Zeitreihe%3aPR_Anlagen_Belegung_Zeitreihe&outputFormat=CSV"
+    },
+    {
+        "dataset_display_title": "Hochschulen (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=5&rubrik_nr=4&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=5&rubrik_nr=4&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Immissionen (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=13&rubrik_nr=1&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=13&rubrik_nr=1&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Innerst\u00e4dtische Umz\u00fcge ukrainischer Personen innerhalb der Stadt Leipzig 2022",
+        "download_url": null,
+        "url": "https://opendata.leipzig.de/dataset/6301cc46-855b-4f33-8f70-50c0c441bb8d/resource/013e4cd3-3603-4021-8ec2-2c609df9ca8e/download/opendataleipzigumzugukraine2022.csv"
+    },
+    {
+        "dataset_display_title": "Insolvenzverfahren (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=8&rubrik_nr=7&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=8&rubrik_nr=7&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Integrativ unterrichtete Sch\u00fcler/-innen nach F\u00f6rderschwerpunkt (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=5&rubrik_nr=6&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=5&rubrik_nr=6&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Investitionen in den Schulbau (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=5&rubrik_nr=7&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=5&rubrik_nr=7&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "LeipzigGiesst gegossene Liter Jahresstatistik 2021",
+        "download_url": null,
+        "url": "https://opendata.leipzig.de/dataset/44543285-378f-40f2-aefc-50e0a27be2a0/resource/0b71d3ca-f511-408c-a87d-51cb85570d1b/download/wateredtreessum2021.csv"
+    },
+    {
+        "dataset_display_title": "Kinder- und Jugendf\u00f6rderung freier Tr\u00e4ger  (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=4&rubrik_nr=39&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=4&rubrik_nr=39&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Kindergarten- und Kinderkrippenkinder in Kindertageseinrichtungen nach Migrationshintergrund",
+        "download_url": null,
+        "url": "https://opendata.leipzig.de/dataset/bd9f8ea8-4d5d-4fd5-9bb0-a97532388d5d/resource/eb42c821-39d1-45ad-9f3d-50517c673dcd/download/abb6.csv"
+    },
+    {
+        "dataset_display_title": "Kinderkrippen- und Kindergartenpl\u00e4tze in Kindertageseinrichtungen",
+        "download_url": null,
+        "url": "https://opendata.leipzig.de/dataset/a1f1c2f0-749e-4c78-959c-25c5f9745c58/resource/25b4d188-0610-477f-a79f-2c5e6fbf740e/download/abb2.csv"
+    },
+    {
+        "dataset_display_title": "Alten- und Pflegeheime (Jahreszahlen, kleinr\u00e4umig)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=4&rubrik_nr=9&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=4&rubrik_nr=9&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Kindertagesst\u00e4tten (Angemeldete Kinder) (Jahreszahlen, kleinr\u00e4umig)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=4&rubrik_nr=1&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=4&rubrik_nr=1&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Kindertagesbetreuung (Kapazit\u00e4ten) (Jahreszahlen, kleinr\u00e4umig)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=4&rubrik_nr=2&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=4&rubrik_nr=2&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Kindertageseinrichtungen in \u00f6ffentlicher oder freier Tr\u00e4gerschaft nach Ortsteilen",
+        "download_url": null,
+        "url": "https://opendata.leipzig.de/dataset/a5645464-a1be-4d20-a8e4-cb2849692fb9/resource/3ce1d143-c1f6-45d9-bdcf-a468c948fbad/download/tab2.csv"
+    },
+    {
+        "dataset_display_title": "Kindertageseinrichtungen (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=4&rubrik_nr=1&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=4&rubrik_nr=1&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Knotenpunkte Stra\u00dfennetz",
+        "download_url": null,
+        "url": "https://geodienste.leipzig.de/l3/OpenData/wfs?VERSION=1.3.0&REQUEST=getFeature&typeName=OpenData%3AStrassen_Knoten&format_options=filename:Knotenpunkte&outputFormat=csv"
+    },
+    {
+        "dataset_display_title": "Kontaktdaten und \u00d6ffnungszeiten der Bibliotheken",
+        "download_url": null,
+        "url": "https://opendata.leipzig.de/dataset/62cdd44d-a98b-4666-8e87-e5cd7d8c1a44/resource/6000018a-2007-4f29-b62a-b41b9c211ff2/download/bibliothekenkontaktdaten.csv"
+    },
+    {
+        "dataset_display_title": "Kraftfahrzeugbestand (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=10&rubrik_nr=2&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=10&rubrik_nr=2&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Kraftfahrzeugbestand (Jahreszahlen, kleinr\u00e4umig)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=10&rubrik_nr=1&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=10&rubrik_nr=1&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Landtagswahl 2024: Stra\u00dfenabschnittsverzeichnis",
+        "download_url": null,
+        "url": "https://static.leipzig.de/fileadmin/mediendatenbank/leipzig-de/Stadt/02.1_Dez1_Allgemeine_Verwaltung/12_Statistik_und_Wahlen/Wahlen/Wahl_aktuell/LTW_2024/Strassenabschnittsverzeichnis_Landtagswahl_2024.csv"
+    },
+    {
+        "dataset_display_title": "Landtagswahlen",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=15&rubrik_nr=3&periode=d&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=15&rubrik_nr=3&periode=d&format=csv"
+    },
+    {
+        "dataset_display_title": "Bundestagswahlen (kleinr\u00e4umig)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=15&rubrik_nr=3&periode=d&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=15&rubrik_nr=3&periode=d&format=csv"
+    },
+    {
+        "dataset_display_title": "Lebenserwartung",
+        "download_url": null,
+        "url": "https://opendata.leipzig.de/dataset/0ba3c1ff-400c-4fd2-ab18-fc2f7adc18e8/resource/18758590-a8e4-4b4c-9798-6860c2702fa6/download/lebenserwartung-in-leipzig-und-den-clustern.csv"
+    },
+    {
+        "dataset_display_title": "Lebensunterhalt (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=9&rubrik_nr=1&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=9&rubrik_nr=1&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "LeipzigGiesst gegossene Liter Jahresstatistik 2022",
+        "download_url": null,
+        "url": "https://opendata.leipzig.de/dataset/9594589e-6e34-48e4-9468-2688ed861f2b/resource/0cd24e1c-8399-4ae0-8195-b413a50a8b65/download/wateredtreessum2022.csv"
+    },
+    {
+        "dataset_display_title": "LeipzigGiesst gegossene Liter Jahresstatistik 2023",
+        "download_url": null,
+        "url": "https://opendata.leipzig.de/dataset/6eb8d75d-3c6d-4d95-b50b-4636c3365fc4/resource/ab0b8b9f-0848-4d1b-81dc-81565f6d4098/download/wateredtreessum2023.csv"
+    },
+    {
+        "dataset_display_title": "Leistungszahlen Leipziger St\u00e4dtische Bibliotheken",
+        "download_url": null,
+        "url": "https://opendata.leipzig.de/dataset/f0e8dd61-0ea6-4706-8547-e3fd920b28be/resource/3c6249da-c1e5-4446-b0af-e9588af3e89c/download/leistungszahlen.csv"
+    },
+    {
+        "dataset_display_title": "Luftverkehr (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=10&rubrik_nr=5&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=10&rubrik_nr=5&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Luftverkehr (Quartalszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=10&rubrik_nr=5&periode=q&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=10&rubrik_nr=5&periode=q&format=csv"
+    },
+    {
+        "dataset_display_title": "LWB-Angebotsmieten nach Baualtersklassen",
+        "download_url": null,
+        "url": "https://opendata.leipzig.de/dataset/68a48da4-9fa1-4c63-97c7-c597322a81f1/resource/21eb0e67-d53f-49e3-82c4-c492d1d26dd0/download/angebotsmietenlwb.csv"
+    },
+    {
+        "dataset_display_title": "LWB-Bestandsmieten nach Baualtersklassen",
+        "download_url": null,
+        "url": "https://opendata.leipzig.de/dataset/96955248-a67f-46d7-b324-5f8111e464df/resource/9e385053-1373-473f-9762-7cd821a67ecc/download/bestandsmietenlwb.csv"
+    },
+    {
+        "dataset_display_title": "Messen und Ausstellungen (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=8&rubrik_nr=11&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=8&rubrik_nr=11&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Museen (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=11&rubrik_nr=1&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=11&rubrik_nr=1&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Museen (Quartalszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=11&rubrik_nr=1&periode=q&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=11&rubrik_nr=1&periode=q&format=csv"
+    },
+    {
+        "dataset_display_title": "Nettoeinkommen (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=9&rubrik_nr=2&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=9&rubrik_nr=2&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Nettoeinkommen (Jahreszahlen, kleinr\u00e4umig)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=9&rubrik_nr=1&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=9&rubrik_nr=1&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Nutzung \u00f6ffentlicher Fl\u00e4chen in Kleingartenanlagen",
+        "download_url": null,
+        "url": "https://opendata.leipzig.de/dataset/d5f21df2-b30a-452b-8366-3edc82a7762c/resource/43958849-9fcb-44d7-a607-7ef61d05572c/download/oeffentlichenutzungkleingartenanlagen.csv"
+    },
+    {
+        "dataset_display_title": "\u00d6ffentliche Toiletten, Stadt Leipzig",
+        "download_url": null,
+        "url": "https://geodaten.leipzig.de/open_data/organisationseinheit/Amt_fuer_Geoinformation_und_Bodenordnung/Toilettenstandorte/Oeffentliche_Toiletten_Stadt_Leipzig.csv"
+    },
+    {
+        "dataset_display_title": "Park+Ride Anlagen Standorte, Stadt Leipzig",
+        "download_url": null,
+        "url": "https://geodienste.leipzig.de/l10/opendata/PR_Anlagen_Standorte_statisch/MapServer/WFSServer?SERVICE=WFS&request=GetFeature&typeName=PR_Anlagen_Standorte_statisch%3aPR_Anlagen_Standorte_statisch&outputFormat=CSV"
+    },
+    {
+        "dataset_display_title": "Personal in Kindertageseinrichtungen in \u00f6ffentlicher oder freier Tr\u00e4gerschaft",
+        "download_url": null,
+        "url": "https://opendata.leipzig.de/dataset/d8f5240e-8772-4d51-a211-b1d231c83702/resource/ad65960a-df97-45c1-aad9-2ca5a7f3f191/download/tab1.csv"
+    },
+    {
+        "dataset_display_title": "Personal nach Aufgabenbereichen (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=14&rubrik_nr=1&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=14&rubrik_nr=1&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Personal nach Dienstverh\u00e4ltnissen (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=14&rubrik_nr=3&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=14&rubrik_nr=3&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Personal nach Produktbereichen (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=14&rubrik_nr=2&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=14&rubrik_nr=2&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Einwohnerdichte (Jahreszahlen, kleinr\u00e4umig)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=2&rubrik_nr=9&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=2&rubrik_nr=9&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Personennahverkehr (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=10&rubrik_nr=4&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=10&rubrik_nr=4&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Probleme aus B\u00fcrgersicht (ab 2020) (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=14&rubrik_nr=11&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=14&rubrik_nr=11&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Probleme aus B\u00fcrgersicht (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=14&rubrik_nr=10&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=14&rubrik_nr=10&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Prognostizierte und tats\u00e4chliche Altersstruktur",
+        "download_url": null,
+        "url": "https://opendata.leipzig.de/dataset/06b56709-b676-4e2c-bd41-de19aa632bba/resource/2761ae4a-c9be-495d-8473-e201fa137a28/download/prognostiziertealtersstruktur.csv"
+    },
+    {
+        "dataset_display_title": "Prognostizierte und tats\u00e4chliche Bev\u00f6lkerungsentwicklung",
+        "download_url": null,
+        "url": "https://opendata.leipzig.de/dataset/cb93c96e-1532-4b0e-ad43-c79e70833a56/resource/b2413399-49b7-4b91-bf08-e2f8d682157f/download/bevolkerungsentwicklung.csv"
+    },
+    {
+        "dataset_display_title": "Realsteuervergleich (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=14&rubrik_nr=7&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=14&rubrik_nr=7&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Registrierungen ukrainischer Personen in Leipzig im Jahr 2022",
+        "download_url": null,
+        "url": "https://opendata.leipzig.de/dataset/dc7e25ad-17b9-4643-a595-faaf0ff4fd18/resource/05b45238-fe08-4727-b6f4-0763a48aced4/download/opendataleipzigukraineregistrierung2022.csv"
+    },
+    {
+        "dataset_display_title": "Relative Bev\u00f6lkerungsentwicklung - Kinder und Jugendliche",
+        "download_url": null,
+        "url": "https://opendata.leipzig.de/dataset/b4a230a8-a719-4698-82c1-7c17be66d8c8/resource/aabcbaa9-fea9-4bca-9008-4c188a5d8512/download/relativebevolkerungsentwicklung.csv"
+    },
+    {
+        "dataset_display_title": "Relative Entwicklung der Einwohnerzahl nach Ortsteilen",
+        "download_url": null,
+        "url": "https://opendata.leipzig.de/dataset/4ae3ee79-56ea-4d67-bf3c-dd4c6d8fddc1/resource/b35b3dd0-0a32-45d6-b3fd-264872bdc068/download/einwohnerot.csv"
+    },
+    {
+        "dataset_display_title": "Schul- und Berufsabschl\u00fcsse (Jahreszahlen, kleinr\u00e4umig)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=5&rubrik_nr=3&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=5&rubrik_nr=3&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Leipziger Spezialm\u00e4rkte - \u00d6ffnungszeiten und Termine",
+        "download_url": null,
+        "url": "https://opendata.leipzig.de/dataset/ddba0783-03f0-4537-865f-defda60ac6a8/resource/416412c8-f82b-421d-9ea4-4941da50d8d4/download/spezialmaerkte.csv"
+    },
+    {
+        "dataset_display_title": "Sporteinrichtungen (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=11&rubrik_nr=7&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=11&rubrik_nr=7&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Sportvereine (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=11&rubrik_nr=6&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=11&rubrik_nr=6&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Sprachverst\u00e4ndnis MigrantInnen",
+        "download_url": null,
+        "url": "https://opendata.leipzig.de/dataset/126ea2a3-38f4-410d-91fe-c683558c99cd/resource/c269e8b9-9adf-4202-ad15-14317a505691/download/abb8sprachverstandnis.csv"
+    },
+    {
+        "dataset_display_title": "Stadtbezirksbudget 2023",
+        "download_url": null,
+        "url": "https://opendata.leipzig.de/dataset/da79941c-94ad-4b35-8f03-f9e02811fa87/resource/6ae9c7a3-aa5a-4b92-8b99-28a800f9b466/download/sbbudget_2023.csv"
+    },
+    {
+        "dataset_display_title": "Stadtratswahl 2024: Bewerberinnen und Bewerber (CSV)",
+        "download_url": null,
+        "url": "https://opendata.leipzig.de/dataset/4aa2ce25-04c8-40de-a25e-80a6cefc5d1e/resource/f0e95083-4b10-466e-b5f3-55e564a3d30e/download/stadtratswahl_leipzig_2024_kandidaten.csv"
+    },
+    {
+        "dataset_display_title": "Stadtratswahl 2024: Ortsteilergebnisse",
+        "download_url": null,
+        "url": "https://wahlergebnis.leipzig.de/4/eu2024/14713000/daten/opendata/Open-Data-14713000-Stadtratswahl-Leipzig-Ortsteil.csv"
+    },
+    {
+        "dataset_display_title": "Stadtratswahl 2024: Stadtergebnis",
+        "download_url": null,
+        "url": "https://wahlergebnis.leipzig.de/4/eu2024/14713000/daten/opendata/Open-Data-14713000-Stadtratswahl-Leipzig-Stadtgebiet.csv"
+    },
+    {
+        "dataset_display_title": "Europawahl und Stadtratswahl 2024: Stra\u00dfenabschnittsverzeichnis",
+        "download_url": null,
+        "url": "https://static.leipzig.de/fileadmin/mediendatenbank/leipzig-de/Stadt/02.1_Dez1_Allgemeine_Verwaltung/12_Statistik_und_Wahlen/Wahlen/Wahl_aktuell/SRW_2024/Strassenabschnittsverzeichnis_Kommunalwahlen_2024.csv"
+    },
+    {
+        "dataset_display_title": "Stadtratswahl 2024: Wahlbezirksergebnisse",
+        "download_url": null,
+        "url": "https://wahlergebnis.leipzig.de/4/eu2024/14713000/daten/opendata/Open-Data-14713000-Stadtratswahl-Leipzig-Wahlbezirk.csv"
+    },
+    {
+        "dataset_display_title": "Stadtratswahl 2024: Wahlkreisergebnisse",
+        "download_url": null,
+        "url": "https://wahlergebnis.leipzig.de/4/eu2024/14713000/daten/opendata/Open-Data-14713000-Stadtratswahl-Leipzig-Wahlkreis.csv"
+    },
+    {
+        "dataset_display_title": "Stadtratswahlen",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=15&rubrik_nr=4&periode=d&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=15&rubrik_nr=4&periode=d&format=csv"
+    },
+    {
+        "dataset_display_title": "Landtagswahlen (kleinr\u00e4umig)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=15&rubrik_nr=4&periode=d&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=15&rubrik_nr=4&periode=d&format=csv"
+    },
+    {
+        "dataset_display_title": "Stadtratswahlen (kleinr\u00e4umig)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=15&rubrik_nr=5&periode=d&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=15&rubrik_nr=5&periode=d&format=csv"
+    },
+    {
+        "dataset_display_title": "Steuereinnahmen (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=14&rubrik_nr=6&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=14&rubrik_nr=6&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Steuereinnahmen (Quartalszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=14&rubrik_nr=6&periode=q&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=14&rubrik_nr=6&periode=q&format=csv"
+    },
+    {
+        "dataset_display_title": "Straftaten (Jahreszahlen, kleinr\u00e4umig)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=12&rubrik_nr=1&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=12&rubrik_nr=1&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Stra\u00dfennetz (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=10&rubrik_nr=1&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=10&rubrik_nr=1&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Stra\u00dfennetz, Stadt Leipzig",
+        "download_url": null,
+        "url": "https://geodienste.leipzig.de/l3/OpenData/wfs?VERSION=1.3.0&REQUEST=getFeature&typeName=OpenData%3AStrassen_Segmente&outputFormat=csv"
+    },
+    {
+        "dataset_display_title": "Tagespflege (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=4&rubrik_nr=2&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=4&rubrik_nr=2&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Theater (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=11&rubrik_nr=2&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=11&rubrik_nr=2&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Theater (Quartalszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=11&rubrik_nr=2&periode=q&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=11&rubrik_nr=2&periode=q&format=csv"
+    },
+    {
+        "dataset_display_title": "\u00dcbernahme von Mietschulden (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=4&rubrik_nr=16&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=4&rubrik_nr=16&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Umzugsgr\u00fcnde umzugswilliger Haushalte - Kommunale B\u00fcrgerumfrage",
+        "download_url": null,
+        "url": "https://opendata.leipzig.de/dataset/7069dbc1-6235-4f5a-925d-86574171f8b2/resource/49b79696-687b-458c-9ef1-cb037ab299bf/download/umzugsgruende.csv"
+    },
+    {
+        "dataset_display_title": "Umzugspotenzial Leipziger Haushalte - Kommunale B\u00fcrgerumfrage",
+        "download_url": null,
+        "url": "https://opendata.leipzig.de/dataset/74d29284-1da5-4d45-b0a7-7005ccf64372/resource/bb23cc2f-5d6c-490e-ba32-0e1de6b030c2/download/umzugspotenzial.csv"
+    },
+    {
+        "dataset_display_title": "Unf\u00e4lle mit Radbeteiligung",
+        "download_url": null,
+        "url": "https://opendata.leipzig.de/dataset/479aea7a-fd31-433b-a714-221625376120/resource/2e8950bf-af9e-4a6e-bc56-f4886635999e/download/unfallatlasleipzig20162020.csv"
+    },
+    {
+        "dataset_display_title": "Unternehmen (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=8&rubrik_nr=1&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=8&rubrik_nr=1&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Untersuchte Kinder in Kindertageseinrichtungen (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=4&rubrik_nr=44&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=4&rubrik_nr=44&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Verarbeitendes Gewerbe (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=8&rubrik_nr=3&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=8&rubrik_nr=3&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Verarbeitendes Gewerbe (Quartalszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=8&rubrik_nr=3&periode=q&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=8&rubrik_nr=3&periode=q&format=csv"
+    },
+    {
+        "dataset_display_title": "Verkehrsraumeinschr\u00e4nkungen (Polygone), Stadt Leipzig",
+        "download_url": null,
+        "url": "https://geodienste.leipzig.de/l3/OpenData/wfs?VERSION=1.3.0&REQUEST=getFeature&typeName=OpenData%3Averkehrsraumeinschraenkungen&format_options=filename:verkehrsraumeinschraenkungen&outputFormat=csv"
+    },
+    {
+        "dataset_display_title": "Verkehrsraumeinschr\u00e4nkungen (Punkte), Stadt Leipzig",
+        "download_url": null,
+        "url": "https://geodienste.leipzig.de/l3/OpenData/wfs?VERSION=1.3.0&REQUEST=getFeature&typeName=OpenData%3Averkehrsraumeinschraenkungen_point&format_options=filename:verkehrsraumeinschraenkungen_point&outputFormat=csv"
+    },
+    {
+        "dataset_display_title": "Verkehrsunf\u00e4lle (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=10&rubrik_nr=3&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=10&rubrik_nr=3&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Verkehrsunf\u00e4lle (Quartalszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=10&rubrik_nr=3&periode=q&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=10&rubrik_nr=3&periode=q&format=csv"
+    },
+    {
+        "dataset_display_title": "Verkehrszeichen, Stadt Leipzig",
+        "download_url": null,
+        "url": "https://geodienste.leipzig.de/l3/OpenData/wfs?VERSION=1.3.0&REQUEST=getFeature&typeName=OpenData%3Averkehrszeichen&format_options=filename:verkehrszeichen&outputFormat=csv"
+    },
+    {
+        "dataset_display_title": "Vermittlung wohnungssuchender Haushalte mit Wohnberechtigungsschein (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=4&rubrik_nr=11&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=4&rubrik_nr=11&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Versorgungsgrad an Pl\u00e4tzen in Kindertageseinrichtungen",
+        "download_url": null,
+        "url": "https://opendata.leipzig.de/dataset/e8d2acc7-a2e8-4781-93d4-5b739c1c8c34/resource/d3fff6ae-2a68-4a9b-9037-72e5c7450845/download/abb910.csv"
+    },
+    {
+        "dataset_display_title": "Verweildauer in Notunterk\u00fcnften (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=4&rubrik_nr=32&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=4&rubrik_nr=32&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Volkshochschule (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=5&rubrik_nr=5&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=5&rubrik_nr=5&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Von Wohnungslosigkeit bedrohte Haushalte  (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=4&rubrik_nr=14&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=4&rubrik_nr=14&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Vornamensstatistik 2014",
+        "download_url": null,
+        "url": "https://opendata.leipzig.de/dataset/c62e543b-a558-4fed-a5cb-973ba8dc787d/resource/40c25656-03aa-4d86-b27f-79484effb51b/download/vornamensstatistik2014.csv"
+    },
+    {
+        "dataset_display_title": "Vornamensstatistik 2015",
+        "download_url": null,
+        "url": "https://opendata.leipzig.de/dataset/712164f5-a316-47f6-b157-50f5357008dc/resource/52a5d094-c79c-4cdf-8785-d2724550a0c3/download/vornamensstatistik_2015.csv"
+    },
+    {
+        "dataset_display_title": "Vornamensstatistik 2016",
+        "download_url": null,
+        "url": "https://opendata.leipzig.de/dataset/af353191-ed9d-40f8-927f-de14cca5694b/resource/c263ca88-9c6d-4a31-b831-749b0c6a1d8b/download/vornamensstatistik_2016.csv"
+    },
+    {
+        "dataset_display_title": "Vornamensstatistik 2017",
+        "download_url": null,
+        "url": "https://opendata.leipzig.de/dataset/3d361523-04a3-4aef-805e-09239e5994d5/resource/77e633ff-43fd-4b82-b860-a04ccedd891a/download/vornamensstatistik_2017.csv"
+    },
+    {
+        "dataset_display_title": "Vornamensstatistik 2018",
+        "download_url": null,
+        "url": "https://opendata.leipzig.de/dataset/2ddc2b70-19ff-44fa-be8d-a205f6a96d13/resource/64f4a1fd-8eba-448d-8c09-9a7377586691/download/vornamensstatistik_2018.csv"
+    },
+    {
+        "dataset_display_title": "Vornamensstatistik 2019",
+        "download_url": null,
+        "url": "https://opendata.leipzig.de/dataset/99766e60-275e-4688-8c0f-028be2304eeb/resource/7a6612ce-746e-4355-845e-c246350feb8f/download/vornamensstatistik_2019.csv"
+    },
+    {
+        "dataset_display_title": "Vornamensstatistik 2020",
+        "download_url": null,
+        "url": "https://opendata.leipzig.de/dataset/986e5c01-ba5e-4960-8ac2-b845ae1b4dde/resource/fe2874df-e904-40c2-b532-410303d7d34b/download/vornamensstatistik_2020.csv"
+    },
+    {
+        "dataset_display_title": "Vornamensstatistik 2021",
+        "download_url": null,
+        "url": "https://opendata.leipzig.de/dataset/91e823fc-e845-47ca-9fe3-3dbe1f193815/resource/9b7e230b-dbea-44c0-9354-94a226e32cd2/download/vornamensstatistik_2021.csv"
+    },
+    {
+        "dataset_display_title": "Vornamensstatistik 2022",
+        "download_url": null,
+        "url": "https://opendata.leipzig.de/dataset/190c9591-3e84-49eb-b2a2-9ceea7958a5d/resource/8886df20-74b8-48d9-ac96-688113b22a03/download/vornamensstatistik_2022.csv"
+    },
+    {
+        "dataset_display_title": "Vornamensstatistik 2023",
+        "download_url": null,
+        "url": "https://opendata.leipzig.de/dataset/a2f12d0f-ebad-4bb5-9b79-0e7077cbb800/resource/1dd0bdde-9fab-415f-ad4e-7b9246cf5739/download/vornamensstatistik_2023.csv"
+    },
+    {
+        "dataset_display_title": "Wanderungen (Amtliche Daten) (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=3&rubrik_nr=4&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=3&rubrik_nr=4&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Wanderungen (Amtliche Daten) (Quartalszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=3&rubrik_nr=4&periode=q&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=3&rubrik_nr=4&periode=q&format=csv"
+    },
+    {
+        "dataset_display_title": "Wanderungen (Melderegisterdaten) (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=3&rubrik_nr=5&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=3&rubrik_nr=5&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Wanderungen (Melderegisterdaten) (Quartalszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=3&rubrik_nr=5&periode=q&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=3&rubrik_nr=5&periode=q&format=csv"
+    },
+    {
+        "dataset_display_title": "Wanderungen (Melderegisterdaten, unrevidiert) (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=3&rubrik_nr=6&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=3&rubrik_nr=6&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Wanderungen (Melderegisterdaten, unrevidiert) (Quartalszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=3&rubrik_nr=6&periode=q&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=3&rubrik_nr=6&periode=q&format=csv"
+    },
+    {
+        "dataset_display_title": "Wanderungen (Jahreszahlen, kleinr\u00e4umig)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=3&rubrik_nr=3&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=3&rubrik_nr=3&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Wanderungen (unrevidiert) (Jahreszahlen, kleinr\u00e4umig)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=3&rubrik_nr=4&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=3&rubrik_nr=4&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Wanderungssaldo nach Herkunfts- und Zielgebieten",
+        "download_url": null,
+        "url": "https://opendata.leipzig.de/dataset/d16ca9e9-45a0-4ab4-9932-8c247379271c/resource/64e0a0c0-a5fa-4f0a-8aa8-2339ab44a7d2/download/wanderungssaldo.csv"
+    },
+    {
+        "dataset_display_title": "Wanderungssaldo nach Zielgebiet, Herkunftsgebiet und Staatsb\u00fcrgerschaft",
+        "download_url": null,
+        "url": "https://opendata.leipzig.de/dataset/894b8062-e56f-4a2f-84c5-ba62a5cb0d2a/resource/0cb0202d-6ea3-416c-b538-44c6fb199348/download/wanderungssaldennachgebietenundstaatsburgerschaft.csv"
+    },
+    {
+        "dataset_display_title": "Wasserhygiene (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=13&rubrik_nr=3&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=13&rubrik_nr=3&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Weihnachtsm\u00e4rkte im Stadtgebiet Leipzig und Umland",
+        "download_url": null,
+        "url": "https://opendata.leipzig.de/dataset/1a595f9b-23e5-4afe-90fd-1543045cd8b0/resource/8cea01da-26cd-4a49-b4cc-cd34b05edf0a/download/markets.csv"
+    },
+    {
+        "dataset_display_title": "Wetterdaten (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=1&rubrik_nr=3&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=1&rubrik_nr=3&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Leipziger Wochenm\u00e4rkte - \u00d6ffnungszeiten und Termine",
+        "download_url": null,
+        "url": "https://opendata.leipzig.de/dataset/2168319b-68e2-4789-9b67-0058ac4a51ce/resource/242b5872-2c21-4674-928b-f0ab2d4c2bee/download/wochenmarkte.csv"
+    },
+    {
+        "dataset_display_title": "Einwohner mit Migrationshintergund (Jahreszahlen, kleinr\u00e4umig)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=2&rubrik_nr=5&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=2&rubrik_nr=5&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Wohnberechtigte Einwohner nach Alter (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=2&rubrik_nr=5&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=2&rubrik_nr=5&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Wohnberechtigte Einwohner (Jahreszahlen, kleinr\u00e4umig)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=2&rubrik_nr=6&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=2&rubrik_nr=6&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Wohnberechtigte Einwohner nach Alter (Jahreszahlen, kleinr\u00e4umig)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=2&rubrik_nr=7&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=2&rubrik_nr=7&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Wohnraumversorgung mit Wohnberechtigungsschein (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=4&rubrik_nr=10&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=4&rubrik_nr=10&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Wohnsituation (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=6&rubrik_nr=2&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=6&rubrik_nr=2&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Wohnungsmieten (Jahreszahlen, kleinr\u00e4umig)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=6&rubrik_nr=6&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=6&rubrik_nr=6&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Wohnsituation (Jahreszahlen, kleinr\u00e4umig)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=6&rubrik_nr=7&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=6&rubrik_nr=7&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Wohnstandortpr\u00e4ferenzen nach dem Umzug - Kommunale B\u00fcrgerumfrage",
+        "download_url": null,
+        "url": "https://opendata.leipzig.de/dataset/8797b725-ad41-4632-9588-4652a8fbf876/resource/cd687f88-5c0b-4076-98d7-645368defa5c/download/wohnstandortpraferenzen.csv"
+    },
+    {
+        "dataset_display_title": "Wohnungsbestand (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=6&rubrik_nr=1&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=6&rubrik_nr=1&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Wohnungsbestand  (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=6&rubrik_nr=22&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=6&rubrik_nr=22&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Geb\u00e4udebestand (Jahreszahlen, kleinr\u00e4umig)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=6&rubrik_nr=4&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=6&rubrik_nr=4&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Wohnungslose - Statistik nach dem WoBerichtsG (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=4&rubrik_nr=38&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=4&rubrik_nr=38&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Wohnungsmieten (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=6&rubrik_nr=3&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=6&rubrik_nr=3&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Wohnungsbestand (Jahreszahlen, kleinr\u00e4umig)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=6&rubrik_nr=5&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=6&rubrik_nr=5&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Wohnungsmieten (Quartalszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=6&rubrik_nr=3&periode=q&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=6&rubrik_nr=3&periode=q&format=csv"
+    },
+    {
+        "dataset_display_title": "Wohnungsnotf\u00e4lle  (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=4&rubrik_nr=15&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=4&rubrik_nr=15&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Wohnungsnotf\u00e4lle (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=4&rubrik_nr=30&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=4&rubrik_nr=30&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Zoo Leipzig (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=11&rubrik_nr=4&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=11&rubrik_nr=4&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Zoo Leipzig (Quartalszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=11&rubrik_nr=4&periode=q&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=11&rubrik_nr=4&periode=q&format=csv"
+    },
+    {
+        "dataset_display_title": "Zu- und Wegz\u00fcge ukrainischer Personen nach/von Leipzig im Jahr 2022",
+        "download_url": null,
+        "url": "https://opendata.leipzig.de/dataset/efcbc626-5bb4-466a-9a19-e2f19cdd701c/resource/67589ac8-7005-4f3b-899f-ea532ff06299/download/opendataleipzigzuwegzugukraine2022.csv"
+    },
+    {
+        "dataset_display_title": "Zufriedenheit mit den Lebensbedingungen (Jahreszahlen)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=14&rubrik_nr=8&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/values?kategorie_nr=14&rubrik_nr=8&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Kinderspielpl\u00e4tze (Jahreszahlen, kleinr\u00e4umig)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=4&rubrik_nr=10&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=4&rubrik_nr=10&periode=y&format=csv"
+    },
+    {
+        "dataset_display_title": "Zufriedenheitsfaktoren (Jahreszahlen, kleinr\u00e4umig)",
+        "download_url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=4&rubrik_nr=11&periode=y&format=csv",
+        "url": "https://statistik.leipzig.de/opendata/api/kdvalues?kategorie_nr=4&rubrik_nr=11&periode=y&format=csv"
+    }
+]
