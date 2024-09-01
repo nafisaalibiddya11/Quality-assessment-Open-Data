@@ -1,6 +1,6 @@
 {
-    "null_values": 2.38,
-    "invalid_data_types": 32.31,
-    "missing_values": 2.38,
-    "unique_identifier_check": 3.0
+    "null_values": 3.43,
+    "invalid_data_types": 32.6,
+    "missing_values": 3.43,
+    "unique_identifier_check": 1.44
 }
